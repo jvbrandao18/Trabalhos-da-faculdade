@@ -1,70 +1,51 @@
-print("-" * 50)
-print('Olá, seja bem-vindo(a) a calculadora polonesa reversa, por favor, siga a instruções à seguir...')
-print("-" * 50)
+print("-" * 84)
+print('Olá, seja bem-vindo(a) a calculadora polonesa reversa ^^, siga os passos a seguir...')
+print("-" * 84)
 
-class pilha(object):
-  def inicia(self):
-    self.elementos = []
+operadores = {
+  "+": (lambda a, b: a + b),
+  "-": (lambda a, b: a - b),
+  "*": (lambda a, b: a * b),
+  "/": (lambda a, b: a / b),
+  "|": (lambda a, b: a ** b),
+  #"&": (lambda a, b: a ** 0.5)
+}
 
-  def mostra(self):
-    return "elementos {0}".format(self.elementos)
+def NPR(expressao):
+    chave = expressao.split()
+    pilha = []
 
-  #adiciona o elemento ao topo da pila
-  def adiciona(self, elemento):
-    self.elementos.append(elemento)
-  
-  #retira o elementos mais recente adicionado a pilha
-  def retira(self):
-    return self.elementos.pop()
+    for token in chave:
+        if token in operadores and operadores != "&":
+            num2 = pilha.pop()
+            num1 = pilha.pop()
+            resultado = operadores[token](num1, num2)
+            pilha.append(resultado)
+        else:
+            pilha.append(int(token))
+    return pilha.pop()
+loop = True
+while loop:
+   
+    expressao = input("Digite a expressão que deseja calcular: ")
+    print(NPR(expressao))
+    pergunta = input("Deseja calcular novamente? (S ou N): ")
+    if pergunta == "S" or pergunta == "s":
+        loop = True
+    else:
+        print("OK! Finalizando")
+        break
 
-operacao = {"+" : lambda x, y : x + y,
-            "-" : lambda x, y : x - y,
-            "*" : lambda x, y : x * y,
-            "/" : lambda x, y : x / y,
-            "|" : lambda x, y : x ^ y,
-            "&" : lambda x, y : x.sqrt}
 
-def calculadora(pilha_operacao, pilha_numero, expressao, operacao):
-  #pilha_operacao = operacao dentro da pilha
-  #pilha_numero = implementa a estrutura pilha para os numeros
-  #expressao = calculo em notacao polonesa
-  #operacao = dicionario das operacoes
+##print(NPR("2 3 + "))
+##print(NPR("2 3 4 *"))
+##print(NPR("4 2 2 /"))
+##print(NPR("4 2 |"))
+#print(NPR("4 &"))
+#print(NPR("(4 2 +) 3 *"))
 
-  #expressao
-  expressao_list = []
+"""  if operadores == "&":
+                num2 = pilha.pop()
+                resultado = operadores[token](num2)
+                pilha.append(resultado) """
 
-  if type(expressao) == str:
-    expressao_list = expressao.split('')
-  
-  elif type(expressao) == list:
-    expressao_list = expressao
-  
-  else:
-    print("Erro!")
-
-#verificacao dos elementos na expressao
-
-  if len(pilha_numero.elementos) == 2 and len(expressao_list) > 2:
-    a = pilha_numero.retira()
-    b = pilha_numero.retira()
-    result = pilha_operacao.retira()(a, b)
-
-    return pilha_operacao.retira()(result, calculadora(pilha_operacao,pilha_numero, expressao_list, operacao))
-  
-  elif len(pilha_operacao.elementos) == 1 and len(pilha_numero.elementos) == 2:
-    a = pilha_numero.retira()
-    b = pilha_numero.retira()
-    result = pilha_operacao.retira()(a, b)
-    return result
-
-  elif expressao_list[0] in operacao.keys():
-    key = expressao_list.pop(0)
-    pilha_operacao.adiciona(operacao[key])
-    return calculadora(pilha_operacao, pilha_numero, expressao_list, operacao)
-
-  elif len(pilha_numero.elementos) < 2:
-    num = int(expressao_list.pop(0))
-    pilha_numero.adiciona(num)
-    return calculadora(pilha_operacao, pilha_numero, expressao_list, operacao)  
-
-calculadora()
