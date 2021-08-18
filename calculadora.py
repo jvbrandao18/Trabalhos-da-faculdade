@@ -1,8 +1,5 @@
-#ESSE CÓDIGO ---->NÃO<---- ESTÁ COMPLETO, O LOOP AINDA NAO FOI DEFINIDO!!
-
-
 print("-" * 50)
-print('Olá, seja bem-vindo(a) a calculadora, por favor, siga a instruções à seguir...')
+print('Olá, seja bem-vindo(a) a calculadora, por favor, siga a instruções a seguir...')
 print("-" * 50)
 
 def calcular():
@@ -31,14 +28,12 @@ def calcular():
     print("Por favor, selecione uma operação válida!")
 calcular()
 
-def repetir():
-  calcular_novamente = input("Deseja calcular algo mais? (S ou N)")
-
-  if calcular_novamente == "S":
-    calcular()
-  elif calcular_novamente == "N":
-    print("Ok!")
-    print("-" * 10)
-    print("Finalizado.")
-  else:
-    calcular_novamente()
+#menu de reentrada
+loop = True
+while loop:
+    pergunta = input("Deseja calcular novamente? (S ou N): ")
+    if pergunta == "S" or pergunta == "s":
+        calcular()
+    else:
+        print("OK! Finalizando")
+        break
