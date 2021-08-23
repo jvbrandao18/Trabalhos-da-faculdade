@@ -31,7 +31,6 @@ def NPR(expressao):
             num2 = pilha.pop()
             num1 = pilha.pop()
             resultado = operadores[token](num1, num2)
-            pilha.pop()
             pilha.append(resultado)
             print(pilha)
 
