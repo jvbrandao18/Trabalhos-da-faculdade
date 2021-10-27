@@ -1,0 +1,2086 @@
+ALEXANDRIA Revista de Educação em Ciência e Tecnologia, v.6, n.1, p. 61-103, abril 2013 ISSN 1982-5153
+
+
+
+
+A Presença da Tecnologia na Educação Matemática: efetuando
+uma tessitura com situações/cenas1 do filme Avatar e vivências em
+um curso a distância de formação de professores
+
+MARIA APARECIDA VIGGIANI BICUDO¹ e MAURÍCIO ROSA² 2
+¹ Programa de Pós-Graduação em Educação Matemática, UNESP, Rio Claro. Pesquisadora do
+CNPq mariabicudo@gmail.com
+² Curso de Licenciatura em Matemática e Programa de Pós-Graduação em Ensino de Ciências
+e Matemática da Universidade Luterana do Brasil mauriciomatematica@gmail.com
+
+Resumo. Este artigo tem como objetivo expor modos de o ser humano ser com a tecnologia, trazendo situações
+projetadas em um filme de ficção científica e em situações em que se realiza Educação Matemática com a
+presença da tecnologia. Traz a análise de uma obra cinematográfica da atualidade – o filme Avatar (2009) – a
+fim de explicitar as concepções assumidas no trabalho com tecnologias presentes na ficção científica. Esta
+evidencia contribuições e antevê possibilidades de trabalhar-se com tecnologias em diferentes atividades, entre
+elas, as da Educação Matemática. Traz também a análise de situações vividas e descritas em chat de um curso à
+distância de formação de professores de matemática. Essas análises revelam confluência de concepções e
+interconexões presentes entre o visto na ficção e o que já está sendo vislumbrado/produzido em termos
+educacionais. Mostra os modos pelos quais a informática deixa de ser entendida como mero instrumento para, de
+maneira clara, ser compreendida como presente à produção do conhecimento. Revela que ela se presentifica no
+processo cognitivo, neste artigo exposto em termos de ser-com, pensar-com e saber-fazer-com-o-ciberespaço.
+Abstract. This article aims to expose ways in which the human being can be technology, bringing together
+situations of a science fiction movie and situations where Mathematics Education takes place in the presence of
+technology. It presents an analysis of a recent film - the movie Avatar (2009) - in order to clarify the conceptions
+assumed in working with technologies found in science fiction. It highlights contributions and opportunities of
+working with technology in different activities, including Mathematics Education. It also includes the analysis of
+situations that were described in the chat of a distance learning education course for Mathematics teachers. This
+analysis reveals a confluence of conceptions and interconnections present between what is seen in fiction and
+what has already being glimpsed/produced in educational terms. It shows the ways in which Information and
+Communication Technologies (ICT) are no longer seen as a mere instrument but understood as means in the
+production of this knowledge. This article reveals that ICT become present in the cognitive process, here stated
+in terms of being-with, thinking-with and know-how-to-do-with-the-cyberspace.
+Palavras-chave: Educação Matemática, Fenomenologia, TIC.
+Keywords: Mathematics Education, Phenomenology, ICT.
+
+
+
+
+Introdução
+         A presença da tecnociência no mundo-vida3 em que estamos hoje, ano de 2013, traz-
+nos desafios a respeito da constituição desse mundo, tanto em termos de compreender sua
+
+
+
+1
+  A descrição/transcrição das situações/cenas do filme Avatar foi parte integrante da Iniciação Científica da aluna
+Priscila C. Maciel da Silva (Bolsa FAPERGS), na Universidade Luterana do Brasil, sob a orientação do Prof. Dr.
+Maurício Rosa.
+2
+  É importante que esclareçamos o modo pelo qual nosso trabalho conjunto se desenvolve. Nós partilhamos
+concepções sobre o ser-com. Maurício se debruça sobre o ser-com-o-ciberspaço e traz esclarecimentos a respeito
+dos aspectos da tecnociência importantes para que possamos avançar na compreensão desse modo de ser-com
+realidade vivida no mundo-vida em que estamos. Maria Bicudo se ocupa das questões de cunho filosófico e,
+mais especificamente, fenomenológico, que vão permitindo “dissecar’ esse ser-com-o-ciberespaço, mesmo
+porque ele não prescinde de mostrar-se o modo pelo qual o ser-com se constitui. E adentrar os meandros dessa
+constituição é um trabalho fenomenológico.
+                                                        61
+                                MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+própria realidade, como compreender-nos a nós mesmos e nossa constituição olhada do ponto
+de vista bio-psíquico-espiritual. Esses desafios apontam para interrogações próprias às regiões
+cernes do pensamento filosófico, concernentes à ontologia, à antropologia, à epistemologia e à
+axiologia.
+        Somos tomados por realidades constituídas pelo conhecimento científico e
+tecnológico, desdobrado em aparatos postos à disposição para nosso uso no cotidiano vivido
+em diferentes dimensões, como as mais vinculadas ao pensamento racional, às sensações e
+percepções que se entrelaçam, constituindo-nos psíquica e espiritualmente (HUSSERL, 2002)
+e enlaçam desse modo, nossas ações de sentir, emocionarmo-nos, amar, querer, julgar, ensinar
+e aprender.
+        Ao nível do senso comum e de nossa vida do cotidiano tendemos a nos ver como
+separados da fantasia e das tramas que projeções de filmes e de programas computacionais
+nos trazem. Tendemos sempre à visão de mundo em que a verdade dos objetos e seu realismo
+é concebida como separada da vida mental e imaginária do sujeito individual. O avanço da
+ciência e da tecnologia toca-nos em momentos em que de alguma maneira somos expostos a
+ele, quer seja por trabalharmos profissionalmente com esse aspecto do conhecimento, quer
+seja por levantarmos questionamentos sobre o modo pelo qual as ações e atividades são
+efetuadas e desenvolvidas com os recursos que são colocados a nossa disposição, os quais
+modificam ações e ampliam seu raio de interferência.
+        Ao estudarmos fenomenologia e informática, com olhares de educadores matemáticos,
+temos, cada vez mais, nos maravilhado com o horizonte mundano que esses estudos nos têm
+iluminado e ficado perplexos com desafios com os quais nos deparamos, gerados por esses
+mesmos campos de conhecimento. Assim, colocamo-nos perguntas que dizem da interrogação
+maior já explicitada por Bicudo e Rosa (2010) sobre a realidade do ciberespaço e os
+horizontes educacionais que antevemos. Essas interrogações assumem o modo pelo qual nos
+ligamos ao outro, criando ambientes e linguagens específicos e encurtando e desfazendo
+distâncias geográficas. Temos levantado perguntas sobre o modo pelo qual nos mantemos
+ligados ao outro e às situações; sobre a continuidade do funcionamento e operacionalidade
+dos recursos disponíveis pela tecnologia e sobre o sistema bio-psíquico-espititual (portanto,
+
+
+
+
+3
+  Mundo-vida entendido como solo de todas as vivências e horizonte aberto às ocorrências naturais e histórico-
+sociais e não como um lugar, espaço-temporal em são depositadas coisas. Husserl (2002) se vale do termo
+Lebenswelt para se referir a essa ideia.
+                                                     62
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+envolvendo o sistema neurológico) do ser humano. Há interinfluência? Há continuidade? Há
+dialética? Há transposição?4
+        Ao assistirmos ao filme Avatar5 (2009) aquelas questões passaram a falar mais alto,
+principalmente pelas compreensões que foram se evidenciando, à medida que a trama do
+filme avançava com a esteticidade plástica característica da arte cinematográfica à disposição,
+hoje. Vimos a esse filme várias vezes, sustentados pela intencionalidade das perguntas
+levantadas em nossos estudos, em sintonia com a beleza e complexidade dessa película e pelo
+nosso trabalho com tecnologias na Educação Matemática, em especial, na Educação a
+Distância online, por meio da conexão com o ciberespaço.
+        A expressão ciberespaço, por sua vez, provém, de acordo com Lévy (2000a), da ficção
+científica. Tal vocábulo servia para designar o universo das redes digitais, descrito como
+campo de batalha entre as multinacionais, palco de conflitos mundiais. Hoje, porém, essa
+expressão é utilizada para representar, ampliar e explicar o que esse mesmo autor chama de:
+                             [...] espaço de comunicação aberto pela interconexão mundial dos
+                             computadores e das memórias dos computadores. Essa definição inclui o
+                             conjunto dos sistemas de comunicação eletrônicos [...], na medida em que
+                             transmitem informações provenientes de fontes digitais ou destinadas à
+                             digitalização. Insisto na codificação digital, pois ela condiciona o caráter
+                             plástico, fluido, calculável com precisão e tratável em tempo real,
+                             hipertextual, interativo, e, resumindo, virtual da informação que é, parece-
+                             me, a marca distintiva do ciberespaço (LÉVY, 2000a, p.92-93 – grifo do
+                             autor).
+        Com o advento da Internet, a expressão ciberespaço (ou espaço virtual 6), utilizada
+somente na ficção científica, foi incorporada para designar esse novo espaço de comunicação,
+que vincula um espaço virtual a um tempo que também é virtual, o qual permite a sensação de
+se estar em outra realidade, uma realidade virtual (LÉVY, 2005). Entretanto, o que nos cabe
+aqui é evidenciar a capacidade que a ficção científica tem de antever fatos científicos. Não só
+em relação ao ciberespaço, mas à ideia de vídeo comunicação, hologramas, robôs, entre outras
+previsões tecnológicas realizadas no passado, que já fazem parte de nosso dia-a-dia.
+        Assim, o que vemos como importante, hoje, com a presença da cibernética, é que
+estamos em um mesmo movimento – tecnocientistas, psicólogos, filósofos, sociólogos,
+4
+  Essas perguntas e muitos encaminhamentos que elaboramos estão em Bicudo e Rosa (2010).
+5
+   Avatar significa um processo metamórfico; transformação, mutação; descida. Na crença hinduísta diz da
+descida de um ser divino à Terra, em forma materializada (HOUAISS, 2001). Conforme entendemos, o nome do
+filme, aqui sob investigação, diz da transformação.
+6
+  “A palavra virtual vem do latim medieval virtualis, derivado por sua vez de virtus, força potência. Na filosofia
+escolástica, é virtual o que existe em potência e não em ato. O virtual tende a atualizar-se, sem ter passado, no
+entanto, à concretização efetiva ou formal. A árvore está virtualmente presente na semente” (LÉVY, 2005, p.15
+– grifo do autor).
+
+
+                                                       63
+                                MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+físicos, matemáticos, neurocientistas, antropólogos, professores – em busca de compreender
+como produzimos conhecimento junto com outros seres humanos, com o que está dado em
+sua materialidade e, sob essa “rubrica”, podemos entender a informática na Educação
+Matemática, em específico, nesse artigo, na formação de professores de Matemática.
+        Na trajetória da realização deste estudo, atentos à realidade que se mostra no filme
+“Avatar” e à realidade que se descortina ao trabalharmos com Educação Matemática em
+ambientes de ensino e de aprendizagem online, perguntamos: como os temas a que chegamos
+mediante o processo de redução das cenas desse filme se presentificam na realidade
+vivenciada em curso ministrado a distância?
+
+
+
+Procedimentos de Pesquisa
+
+        Guiados pelo nosso modo de proceder, fundamentado e explicitado na Pesquisa
+Qualitativa (BICUDO, 2011), buscamos estudar a ficção científica em obras cinematográficas
+(BICUDO; ROSA, 2012) visando compreender aspectos da Educação Matemática Online
+(ROSA, 2008) que se esclarecem inclusive pela superposição de modos pelos quais seres
+humanos são com a informática. Ou seja, para a Educação Matemática que trabalha com
+tecnologias, em específico, o ciberespaço. Com essa meta, primeiramente, descrevemos
+minuciosamente as cenas do filme Avatar (2009). Essas cenas foram transcritas e enumeradas
+em sua totalidade7, de modo a podermos citá-las claramente no texto. Dessa forma, orientados
+pelas nossas indagações, perguntando-nos o que a cena nos dizia e destacamos os sentidos que
+percebemos. Esses sentidos (que se fizeram ao focarmos a pergunta: o que a cena nos diz?)
+foram reunidos, mediante o procedimento de redução8, em sentidos mais amplos, originando
+temáticas, que explicitam a reunião de sentidos em todos mais abrangentes, os quais
+organizam o presente artigo. Essas temáticas abrem um campo de interpretação, conforme
+compreendemos, no âmbito da interrogação a respeito do mundo-vida em que vivemos, hoje.
+Efetuamos as interpretações mediante um diálogo mantido entre os autores por nós estudados,
+
+
+7
+ A transcrição realizada encontra-se no final deste artigo.
+8
+  Redução é um movimento de buscar sentidos e significados nas descrições do fenômeno interrogado que
+convirjam, indicando um modo mais abrangente de expressá-los, efetuando um salto de qualidade no dito, na
+medida em que se transcende a individualidade do expresso nos destaques da descrição e se passa a uma
+generalidade mais complexa de ideias articuladas. Kern (1977) afirma que Husserl também designa redução
+como epoché ou ato de colocar em evidência. Refere-se, de acordo com ele ao ato de dar destaque ao que está
+sendo interrogado, de maneira que atos da consciência, constitutivos da geração do conhecimento sejam
+expostos. Esse autor afirma, ainda, que Husserl trabalha a redução de diferentes modos em suas obras e às vezes
+em uma mesma obra e que a denomina de redução transcendental, redução fenomenológica e de epoché.
+                                                      64
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+nossas investigações, já citadas, e o exposto no filme “Avatar”, aqui tomado como parte dos
+dados analisados.
+         Essas interpretações foram abertas à especificidade da Educação Matemática que
+trabalha com tecnologias, buscando mostrar como aspectos importantes evidenciados na
+análise do filme Avatar estão presentes em situações experienciadas em um curso de
+formação continuada denominado “Cyberformação9 de Professores de Matemática”.
+        Alguns chats desse curso, já analisados sob uma vertente diferente da que abordamos
+neste artigo, podem ser encontrados em Rosa e Vanini e Seidel (2011), e também são trazidos
+para nossa análise. Importante, em termos de clareza, é dizer que, para chegarmos ao destaque
+desses excertos, procedemos da mesma maneira que em relação ao filme Avatar. Ou seja,
+após a leitura minuciosa dos chats desenvolvidos no decorrer do curso, transcritos na própria
+plataforma de comunicação a distância, selecionamos cenas ou passagens das transcrições que
+vêem ao encontro de nossas perguntas e que contribuem com a interpretação das três
+categorias às quais articulamos mediante compreensões e interpretações das cenas do filme
+Avatar, tendo as perguntas, já mencionadas, como norte. Isto é, vislumbramos que os temas
+que articulamos mediante o processo de redução das cenas desse filme, e que serão
+explicitados interpretativamente neste artigo, podem se presentificar na realidade vivenciada
+em curso ministrado a distância pelos fluxos das ocorrências que se dão ao assumir-se a
+atitude de ser-com-tecnologia, pensar-com-tecnologia exercida intencionalmente no saber-
+fazer-com-a-tecnologia10.
+        Assim, guiados pelas perguntas que nos mantém em movimento de investigação e
+tomando os temas que nos afetam sobremaneira em nossas pesquisas, tendo visto na
+
+  Quando trazemos à tona a palavra “Cyberformação”, procuramos enfatizar duas ideias que acreditamos serem
+9
+
+fundamentais na construção desse vocábulo. A primeira é concernente aos aspectos do uso de tecnologias, os
+quais se presentificam na parte do vocábulo identificada como “Cyber”. Ou seja, Ciber (Prefixo inglês cyber-,
+simplificação de cybernetics, cibernética). Exprime a noção de Internet ou de comunicação entre redes de
+computadores (ex.: ciberespaço) (PRIBERAM, 2011). A segunda ideia refere-se à própria “form/ação”
+(BICUDO, 2003) que abrange ambientes cibernéticos e aparatos tecnológicos que a eles se vinculam e/ou
+produzem, como fator proeminente dessa form/ação. Esta, posta desse modo, significa a ação que ao ser efetuada
+delineia a forma e forma que embasa a ação. A Cyberformação de professores de Matemática, então, condiz à
+intencionalidade desse professor ao estar com a tecnologia, formando-se ao com ela trabalhar, ao mesmo tempo
+em que ela incide em delineamentos de formas de ação. Não se fala de um estar mecânico; não se pensa em uma
+formação de uso técnico das tecnologias, como se essas fossem recursos auxiliares ao ensino e à aprendizagem;
+mas, de uma form/ação que lida e considera as TIC como meios que participam ou devem participar
+efetivamente da produção do conhecimento matemático (no caso). A Cyberformação é “[...] a formação vista sob
+a dimensão específica (Matemática), pedagógica e tecnológica que assume o uso de TIC, em específico, o
+ciberespaço em ambiente de EaD sob a perspectiva do ser-com, pensar-com e saber-fazer-com-TIC [...]”
+(ROSA, 2011, p. 11 - grifos do autor).
+10
+   Ser-com, pensar-com e saber-fazer-com-tecnologia são expressões já cunhadas no estudo de Rosa (2008) e que
+são usadas por nós nesse estudo por entendermos, a partir das categorias articuladas mediante reduções
+sucessivas efetuadas na pesquisa aqui descrita, que retratam de forma sintética as respostas a nossa pergunta
+diretriz.
+                                                     65
+                                MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+linguagem cinematográfica modos de melhor explicitar nossa compreensão sobre o que deles
+compreendemos, escrevemos este artigo, destacando temas e cenas na busca de levar a
+leitores nossas interpretações, com a intenção de manter um diálogo vivo que sustenta a
+constituição do que é entendido por inteligência coletiva (LÉVY, 2000b) e, ao mesmo tempo,
+intencionando abrir compreensões sobre nós, sobre a realidade mundana em que somos com
+os outros e sobre a realidade em que trabalhamos com professores de matemática, assumindo
+a atitude ser-com-tecnologia, ao estarmos em ação de ensinar e aprender matemática.
+        O filme Avatar (2009) lança mão de muitos recursos cinematográficos entrelaçados a
+uma trama atual, em relação ao momento do seu lançamento, e foca o embate de visões de
+mundo e de posturas frente à vida, materializando em cenas as ações de ser-com, pensar-com
+e saber-fazer-com tecnologias informáticas, biotecnológicas etc. Ou seja, traz-nos modos de
+estar-com o outro: com a tecnologia, com o igual, com o diferente. Entendemos que seus
+diretores basearam-se em estudo aprofundado a respeito de temas filosóficos e
+antropológicos, bem como, científicos que sustentam a narrativa do filme.
+        Tomamos o presentificado nesse filme e realizamos o exercício de trazer esses temas
+para a realidade educacional, avançando em termos dos horizontes filosóficos que sustentam o
+trabalho com tecnologias em Educação Matemática e focando a formação de professores de
+Matemática. A análise e interpretação desse filme evidenciaram aspectos que também se
+mostraram no decorrer do processo formativo do curso de Cyberformação.
+        Esse é o objetivo deste artigo. Expor essas articulações e enfatizar modos de estar-com
+o outro: com a tecnologia, com o igual, com o diferente.
+        Visando a conduzir o leitor ao solo em que nos locomovemos, apresentamos um breve
+resumo sobre o filme Avatar e sobre o curso de Cyberformação de professores de Matemática.
+
+
+Sobre o filme Avatar
+        Avatar (2009) é um filme que fala do encontro “homem-mundo”, dizendo da
+percepção de si e do outro no e mediante o corpo-próprio, estendido ou ampliado pelos
+recursos da informática desenvolvidos em consonância com conhecimentos da neurociência e
+da biologia. Diz da entropatia11 entre seres vivos, da compreensão sobre a vida e do embate
+entre concepções culturais que podem levar à destruição da própria vida.
+
+11
+   Entropatia é o conhecimento do outro, explicitado, neste trabalho, em outro item. É um termo traduzido do
+alemão Einfühlung pelo tradutor italiano de Ideia II de Husserl (2002). Também foi traduzida, essa palavra como
+empatia. Entretanto, neste trabalho valemo-nos de entropatia por concordarmos com Ales Bello (2007) que
+preferiu essa forma à empatia, por esta ter sido conceituada de modo estranho à postura fenomenológica em
+outras ciências.
+                                                      66
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+       A trama do filme, que costura o sentido das diferentes cenas, relata o embate que se
+põe no processo de efetivação de uma tarefa bem definida em termos de objetivos econômicos
+e científicos. Os econômicos são traduzidos como aqueles dos militares que, contando com
+aparato bélico de ponta, no sentido de aparato tecnológico não encontrado na realidade
+mundana atual, têm por alvo retirar do planeta Pandora, onde estão aportados, Unabtanium,
+uma pedra que vale 20 milhões de dólares o quilo, tido como um produto importante para a
+indústria no planeta Terra. A questão que mantém o confronto com os nativos desse planeta se
+refere à substância procurada, a qual, para ser obtida, exige que seja destruído o núcleo da
+história e da cultura desse povo, pois está sob as raízes de uma grande árvore, concebida
+como árvore da vida.
+         Entretanto, para que possam subjugar os nativos de Pandora e se apropriarem da
+substância valiosa para a indústria terráquea, os militares precisam conhecer esse planeta e
+aproximarem-se dos seus habitantes, subjugando-os. Um ponto importante, então, para a
+consecução dos objetivos levantados, se refere à aproximação com os nativos, visando
+conhecê-los, bem como a sua cultura. Para tanto, há uma equipe de cientistas liderada pela
+Doutora Grace Augustine (personagem do filme) que dispõe de um laboratório equipado com
+cabines de conexão em que humanos se conectam aos seus avatares (corpos
+biotecnologicamente constituídos), de maneira que, mantendo o conhecimento humano, bem
+como, a identidade dos sujeitos pesquisadores que se modificam, possam se transformar em
+corpos vivos iguais aos dos nativos. Essa pesquisa retratada na película trabalha com
+conhecimento avançado de tecnociência, de neurologia, de biologia e se depara com questões
+antropológicas.
+
+
+       Assim, há dois projetos que inicialmente parecem estar voltados para um mesmo
+objetivo: extrair riquezas de Pandora, mas que, ao se desenrolar a trama, mostram-se
+discrepantes: o da equipe de cientista e o da equipe de militares.
+       O embate que sustenta a película é aquele travado entre militares, equipe de cientistas
+e habitantes de Pandora, cada um com sua visão de mundo, de vida e do outro. Porém, as
+concepções e os procedimentos que conduzem a investigação científica durante o desenrolar
+da própria pesquisa aproximam essa equipe de cientistas dos nativos e de sua cultura,
+colocando-os de lado oposto ao dos militares terráqueos. Com isso, trava-se uma disputa
+violenta em que os militares, com sua força parabélica, investem contra cientistas e nativos.
+
+
+
+                                               67
+                                 MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+         Para nós, no entanto, o que se destaca em termos da Educação Matemática é a
+mobilidade e potencialidade que a tecnologia retratada no filme traz em termos da produção
+do conhecimento sobre os Na’vis (habitantes de Pandora). Buscamos na interpretação do
+filme um modo de avançarmos com compreensões da área da Educação. Tratamos de
+evidenciar o trabalho com tecnologia que vai ao encontro da produção do conhecimento
+matemático, de forma a enriquecermos a concepção de uso desses recursos e efetivarmos a
+abrangência imaginativa e criativa no processo educacional em que se assume a atitude de
+ser-com-tecnologia.
+
+
+Sobre o curso Cyberformação
+        Trata-se de um curso de formação continuada denominado “Cyberformação12 cujo
+objetivo é a formação de professores de matemática para trabalharem com EaD. Foi
+desenvolvido totalmente à distância, elaborado e efetivado na plataforma Moodle 13 com a
+participação de 13 professores de matemática (ROSA; VANINI; SEIDEL, 2011). Foi
+destinado a professores de matemática que atuam, atuarão ou desejam atuar na Educação a
+Distância Online, com duração de 40h/aula. Esse período foi dividido em duas partes: 24
+horas de encontros assíncronos (fóruns de discussão, e-mails, produção de atividades que
+foram postadas na plataforma, etc.) e 16 horas de encontros síncronos, os quais ocorreram
+semanalmente de 27/10/2010 à 15/12/2010, das 19h às 21h, via chat.
+        A proposta pedagógica deste Curso foi construída, assumindo-se que a formação do
+professor de matemática deve contemplar aspectos tecnológicos, específicos (matemáticos) e
+pedagógicos, vistos não de maneira estanque e sim entrelaçados, focando temas como
+CyberMatemática14, Cyberformação, Ambientes Virtuais de Aprendizagem,                                     Design
+Instrucional, recursos e processos tecnológicos como presentes na produção do conhecimento
+
+
+
+
+   A concepção de Cyberformação abrange “[...] a formação vista sob a dimensão específica (Matemática),
+12
+
+pedagógica e tecnológica que assume [...] as TIC, em específico, o ciberespaço em ambiente de EaD sob a
+perspectiva do ser-com, pensar-com e saber-fazer-com-TIC [...]” (ROSA, 2011, p. 11 - grifos do autor).
+13
+   Modular Object-Oriented Dynamic Learning Environment – maiores informações ver Rosa (2011).
+14
+   “[...] denominamos a CyberMatemática, não como um vocábulo dentre tantos os que existem na Educação
+Matemática, mas como marco de estudo sobre suas diferenças, ou seja, as percepções que dela temos ao sermos
+outros sendo nós mesmos com o ciberespaço (ROSA, 2008): uma Matemática que se constitui a partir de uma
+geração net que carrega consigo, culturalmente, concepções e ideias próprias sobre visão geométrica (agora
+dinâmica); de cálculo imersivo, imaginativo e repleto de sons e imagens; de álgebra que fundamenta um sistema
+binário complexo e que dá suporte a todo esse aparato tecnológico; de estatística que transpassa gráficos, tabelas,
+problemas impregnados de luz, cor e movimento, os quais também revelam toda a plasticidade dessa
+Matemática; assim como de outras compreensões que não àquelas vistas quando o que se apresentava, na
+verdade, precisava era ser mostrado, transferido, transmitido” (ROSA, VANINI, SEIDEL, 2011, p. 99-100).
+                                                        68
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+matemático, desenvolvimento e resolução de Cyberproblemas15, possibilidades e alternativas
+de avaliação a distância, entre outras especificidades evidenciadas nessas temáticas.
+
+
+
+
+          Para discutir cada temática com os alunos, foram disponibilizados na plataforma
+Moodle, uma semana antes de cada encontro síncrono, textos selecionados pelos responsáveis
+pelo curso, além de problemas matemáticos que evidenciassem/tangenciassem as temáticas
+abordadas. Em cada um dos encontros, o texto e aspectos da resolução dos problemas
+propostos eram discutidos via chat, cuja resolução individual deveria ser postada no ambiente
+virtual antes do encontro síncrono. Após as discussões, os organizadores do curso inseriam
+uma nova atividade relacionada ao tema vigente que deveria ser desenvolvida e exposta no
+ambiente (atividade assíncrona) até a próxima sessão de chat.
+
+
+
+
+Aspectos Teóricos
+
+          A poiética do filme materializa, na fluidez permitida pela plasticidade da arte
+cinematográfica e respectivos recursos tecnológicos, traz a ideia veiculada entre estudiosos do
+ciberespaço sobre ser-com-tecnologia (ROSA, 2008). Por exemplo, Lèvy (2000a, p.22)
+afirma:
+                           É impossível separar o humano de seu ambiente material [no sentido físico],
+                           assim como dos signos e das imagens [no sentido cognitivo] por meio dos
+                           quais ele atribui sentido à vida e ao mundo. Da mesma forma, não podemos
+                           separar o mundo material – e menos ainda sua parte artificial – das idéias
+                           por meio das quais os objetos técnicos são concebidos e utilizados, nem dos
+                           humanos que os inventam, produzem e utilizam.
+
+
+          Nessa perspectiva, Borba e Villarreal (2005) falam de ‘seres-humanos-com-mídia’. No
+texto desses autores, esse é um constructo que diz de uma concepção específica de tecnologia
+enquanto algo com o qual somos e não apenas do qual nós, seres humanos, nos valemos para
+efetuarmos alguma ação. Ou seja, não vêem a tecnologia como um instrumento a serviço de
+ações ideadas por nós humanos, mas como o próprio meio com que efetuamos ações e, nesse
+
+
+
+15
+  Ciberproblemas são problemas que necessitam do ciberespaço para serem pensados/resolvidos no que tange a
+conectividade (cognição-ciberespaço) e que por sua hipertextualidade se constituem como uma rede de
+problemas geradas a partir de uma situação problema inicial, mas que se expande com o ciberespaço (ROSA;
+VANINI; SEIDEL, 2011).
+                                                   69
+                                MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+processo de realização, nossos modos de cognição e de produzir práticas formatam e são
+formatados pelos meios (materiais) à disposição.
+          Esse modo de ver a presença do que está à disposição como utensílio junto ao ser
+humano não surge com esses estudiosos, mas muitos filósofos, sociólogos e antropólogos, por
+exemplo, desde o final do século de 1800 e começo do de 1900 já desenvolvem estudos,
+evidenciando a totalidade sujeito-objeto, homem-mundo, parte-todo, bem como a produção do
+conhecimento, quando evidenciam que essa produção é um processo em que homem-mundo
+se co-constituem. Dentre esses estudos, há os que evidenciam a dialética parte-todo,
+destacando questões específicas da construção do conhecimento; há os que destacam a
+construção da realidade; há aqueles que evidenciam a linguagem, a história, e assim por
+diante. Heidegger (1988), por exemplo, em Ser e Tempo, aqui referida essa obra em sua
+tradução para o português da obra Zein und Zeit publicada em 1927, explicita a concepção de
+ser-com, ao falar do Dasein como um “ser-aí-no-mundo”. É uma concepção que expõe o fato
+de sempre já sermos com o que nos circunda, pois somos em uma espacialidade em
+movimento de ser, portanto, sendo, junto ao que conosco também está sendo. “Isso” com o
+que sempre estamos sendo de modo constitucional abrange seres humanos e não humanos,
+objetos culturais, instrumentos, e por ai vai. Esse autor traz a concepção de não sermos
+separados do que conosco está na espacialidade mundana de nossa existência.
+          Entretanto, o constructo ser-humano-com-midia traz outra vertente importante para a
+produção do conhecimento, que à medida que fomos estudando-o junto a outros autores que
+focam cibernética e questões sobre intencionalidade, cognição, entropatia, intersubjetividade e
+outras que convergem para essa questão, passamos ao entendimento de que, no processo dessa
+produção, a informática deixa de ser entendida como instrumento para, de maneira clara, ser
+compreendida como inerente à produção do conhecimento, donde, portanto, fazer parte do
+processo cognitivo como a materialidade do que se mostra e é enlaçada no movimento da
+intencionalidade16 e das formas de expressão e da manutenção do expresso.
+          Nessa direção, Rosa (2008) afirma que o ser cibernético pensa-com a tecnologia na
+medida em que se encontra com suas interfaces. Cada uma dessas, segundo Lévy (2000b,
+p.181),
+
+
+
+
+16
+   Consciência, como entendida pela fenomenologia, é movimento que nos liga ao mundo mediante atos de
+percepção e entropatia e que traz isso que é percebido, enquanto percebido, à consciência que, mediante atos,
+também cognitivos, os elabora mediante operações, expressando o percebido e elaborado pela linguagem, ou
+seja, comunicando-os e disponibilizando-os ao mundo mediante modos possíveis de expressão.
+                                                     70
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+                       [...] é uma superfície de contato, de tradução, de articulação entre dois
+                       espaços, duas espécies, duas ordens de realidade diferentes: de um código
+                       para outro, do analógico para o digital, do mecânico para o humano... Tudo
+                       aquilo que é tradução, transformação, passagem, é da ordem da interface
+                       [...]
+
+
+       Em um processo de comunicação a distância, pensar-com a tecnologia inclui a EaD
+Online. O computador possibilita diferentes interfaces com o humano, promovendo o que
+chamamos de simbiose seres-humanos-computador. Fora do ciberespaço, elementos físicos
+são tomados como a materialidade dos objetos/utensílios com os quais se age. No ciberespaço
+cada tipo diferente de teclado, mouse, monitor, dataglove etc. torna-se uma interface
+diferente. Por exemplo, nesse espaço, a World Wide Web também é uma interface. O próprio
+Lévy (2000a, p.160) afirma que, além disso,
+
+
+                       [...] A World Wide Web é um fluxo. Suas inúmeras fontes, suas
+                       turbulências, sua irresistível ascensão oferecem uma surpreendente imagem
+                       da simulação de informação contemporânea. Cada reserva de memória,
+                       cada grupo, cada indivíduo, cada objeto pode tornar-se emissor e contribuir
+                       para a enchente [de informações].
+
+
+       Essas afirmações fazem com que o retorno a determinados tópicos seja constante.
+Falar em fluxos, transformação, em ser-humano-com-ciberespaço são ideias que revelam
+força. Pensar-com e estar-imerso-em viabilizam transformações, por meio de fluxos, na
+própria mídia. Assim, objetos construídos no ciberespaço e nele postos à disposição, também
+se constituem em mídias atuantes no processo de construção do conhecimento.
+       Em atividades em que a postura assumida é ser-com-tencologias, visualizar, por
+exemplo, o movimento do gráfico, a construção sequencial de retas secantes no sentido de
+uma reta tangente a um ponto, em termos matemáticos, no écran, desencadeia diálogo de
+modo dialético com as atividades cognitivas do sujeito, possibilitando a compreensão do
+movimento de secante para tangente em uma dimensão de profundidade e de transformações
+das figuras. Notemos que essa atividade difere daquela que trabalha com o plano de modo
+estático, pensado em termos do plano cartesiano, mostrando em um gráfico a secante e outro
+gráfico, a tangente.
+        Atividades efetuadas no ciberespaço com alunos em cursos de EaD podem
+desencadear o que Lévy (2000b) chama de produção coletiva do conhecimento. Esse modo
+de proceder viabiliza imaginar e visualizar a movimentação das figuras gráficas coletivamente
+construídas, e, ao mesmo tempo, possibilita a cada sujeito perceber-se as visualizando com
+                                              71
+                             MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+seu corpo virtual (Avatar17). A atividade-com-o-ciberespaço pode ser ainda mais produtiva se
+entendermos as possibilidades de ação com esse meio e o pensar-com o próprio ciberespaço.
+Nessa perspectiva, Lévy (2000b, p.29 – grifo do autor) revela que “[...] o ciberespaço tornar-
+se-ia o espaço móvel de interações entre conhecimentos e conhecedores de coletivos
+inteligentes desterritorializados”. Vemos, portanto, o ciberespaço se configurando como um
+espaço móvel em que o ser-com-tecnologia está no mundo-vida acontecendo, ou seja, em
+movimento de tornar-se. Ao estar “plugado” o sujeito se potencializa, pois é-com-tecnologia.
+Está no mundo-vida produzindo conhecimento e, sendo solicitado a estar atento ao que efetua,
+pensa-com-tecnologia e pode se perceber pensando. Enquanto “plugado” estabelece um
+micromundo (ROSA, 2008) que o toma por completo, no sentido de intencionalmente estar
+junto ao que está fazendo e pensando e, também, aos outros que se presentificam pelas suas
+produções inteligentes. Em cursos de matemática que acontecem no ciberespaço e mediante
+essa atitude de pensar-com-tecnologia pode-se dar: a produção de conhecimentos
+matemáticos, pois abrange a (trans)formação das ideias matemáticas passíveis de serem
+trabalhadas nesse ambiente tecnológico (computador, software, vídeo); o saber-fazer-com-
+tecnologia expresso pelas ações realizadas no mundo-vida, com o próprio sujeito
+desencadeador dessas ações e com os outros com quem se está, dirigidas intencionalmente
+para as atividades demandadas pela prática da construção de um produto específico (ROSA,
+2008). O ato de construir é uma ação que carrega consigo muitas outras ações, como: o
+projetar, visualizar, produzir, escolher, fazer. Tais ações são intencionadas, ou seja, estão
+direcionadas para o que se quer fazer, produzir, etc. e se expõem com a materialidade
+disponível mediante utensílios, textos, tecnologias, etc.
+       Além disso, o sujeito “plugado” ao computador é uma totalidade enquanto humano; é
+uma realidade presente em seu corpo-próprio. Está ali, na modalidade offline. Porém, ao
+lançar-se no ciberespaço com-a-tecnologia, seus atos inteligentes, decidindo por opções e
+realizando programas, torna-se movimento e acontece online na fluidez da dimensão
+espaço/tempo. É como se o sujeito se transformasse em avatar, pois é corpo-próprio, aqui e
+agora, neste espaço frente ao computador, vivendo intencionalmente em conexão. A
+compreensão dessas duas modalidades de estar-com-a-tecnologia leva-nos à construção de
+identidades online (ROSA, 2008), entendidas como um “fenômeno dinâmico” (PINNELLI,
+2002), pois “Quando atravessamos o ecrã para penetrarmos em comunidades virtuais,
+
+
+17
+   “Avatares [em ambientes virtuais] são personagens gráficos que podem assumir diferentes formas de
+representação: corpos tridimensionais, figuras, fotos etc.” (ROSA, 2008, p.61 – nota de rodapé).
+                                                72
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+[também] reconstruímos a nossa identidade do outro lado do espelho. Esta reconstrução é o
+nosso trabalho cultural em curso” (TURKLE, 1997, p. 261 – grifo nosso).
+
+
+
+
+Desafios do Mundo-vida hoje
+
+       Em Bicudo e Rosa (2010) podemos conferir uma explicitação sobre a realidade do
+mundo cibernético, discutida com referencial filosófico que estabelece um diálogo entre
+diferentes aspectos relativos à realidade virtual, de forma a evidenciar uma dicotomia em
+relação à concepção corrente veiculada entre estudiosos do assunto. Nesse sentido, esses
+autores discutem a forte presença da informática no cotidiano do mundo urbanizado, a força
+dessa presença no mundo-vida e avançam em termos de possibilidades para a educação
+online. Fazem isso, também, quando realizam uma análise interpretativa do filme Déjà vu
+(2006) e, consequentemente, exploram o modo pelo qual as experiências são vividas e
+interpretadas pelos personagens dessa obra, trazendo à tona a concepção de realidade virtual
+tão somente como realidade.
+       Dessa forma, entendemos que analisar uma obra de ficção científica sob lentes
+filosóficas, por exemplo, o filme Avatar (2009), como foi efetuado com o Déjà vu (2006),
+pode contribuir para a compreensão do que ainda está por vir, em relação ao trabalho com
+tecnologias na Educação, particularmente, na Educação Matemática. Para nós, essa
+contribuição se torna clara à medida que constatamos que muitos recursos que atualmente
+fazem parte de nosso cotidiano já haviam sido concebidos em obras cinematográficas e outras
+obras de ficção.
+       Conforme nossa compreensão, Avatar (2009) pode contribuir com a Educação, em
+nosso caso com a Educação Matemática, se visualizarmos os desafios que hoje se apresentam
+em termos da presença da tecnologia no ensino e aprendizagem de matemática, incluindo a
+formação do professor responsável por esses processos. A análise e a interpretação desse
+filme conduziram nosso pensar no movimento de reduções (fenomenológicas) efetuadas de
+modo a articular convergências de sentidos e significados, que denominamos categorias
+abertas, uma vez que se abrem a interpretações significativas da perspectiva da pergunta
+formulada, dos autores estudados e das análises efetuadas. Nesse processo investigativo,
+demo-nos conta de que entre os desafios identificados está o de se entender o trabalho com a
+tecnologia como sendo um fluxo do movimento que avança na medida em que assumimos a
+postura de efetuar ações tendo como solo compreensivo o modo de estar atento ao que
+                                            73
+                            MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+fazemos,   entendida   como característica      da   consciência, o ser-com-tecnologia,        a
+intencionalidade, o estar-com a comunidade de Pandora, a percepção do sagrado e da vida.
+Neste artigo, por privilegiarmos a Educação Matemática, trataremos de duas dessas
+convergências, quais sejam, o ser-com-tecnologia e intencionalidade, visando a expor nosso
+pensamento sobre modos de se estar com a tecnologia ao se ensinar e aprender Matemática, e
+duas outras articuladas no trabalho efetuado com a descrição o chat do curso de
+Cyberformação de professores de matemática, quais sejam, o pensar-com-tecnologia, o saber-
+fazer-com-tecnologia, uma vez que os sentidos englobados nessas convergências assumem as
+posturas base das duas primeiras e contribuem com a compreensão da Educação Matemática
+que trabalha com tecnologia.
+
+      Ser-com-tecnologia
+
+       No filme aqui analisado, essa simbiose ser humano-ciência-recursos tecnológicos é
+consumada na constituição de avatares, criados pela mistura do DNA de humanos e nativos de
+Pandora, cuja forma se materializa mediante composição de silicone, minuciosamente
+estruturada por interconexões sustentadas por monitores de alta tecnologia. Esse avatar tem
+uma estrutura maior do que a dos humanos e, também, diferente, pois há que se assemelhar
+aos nativos de Pandora. Possui olhos grandes, pele azul, cabelos longos e com trança e rabo
+de animal. Porém, a fisionomia é a dos humanos que se transvestem em avatares. No caso do
+avatar de Jake (personagem principal do filme), um cadeirante, o rosto é o de seu irmão
+gêmeo idêntico, e, portanto, também do seu. Esse é o motivo de ele ter sido chamado para a
+missão científica que instiga o início do filme. A morte de seu irmão e o fato de ele ser seu
+gêmeo idêntico, portanto, as instruções genéticas semelhantes às dele constituem-se na razão
+de ele participar da equipe de cientistas. Porém, ele não havia recebido formação prévia para
+aquela tarefa. Ele não é cientista, mas ex-fuzileiro ferido em combate. Esse fato, conforme
+entendemos, coloca-o em uma situação de maior liberdade, uma vez que não possui
+informações prévias dos perigos possíveis que poderá enfrentar e, ainda, não tem
+conhecimento preciso, específico do experimento, não tendo padrões definidos de
+comportamento.
+       Além disso, os computadores que sustentam as interconexões também permitem
+mostrar o comportamento do cérebro de cada pessoa conectada em seu avatar.
+       Cena 14: Os avatares estão deitados em macas em uma sala de observação com cientistas,
+       enquanto Grace leva Jake até a sua cabine de conexão. A cabine tem um molde de silicone em
+       forma de corpo humano em que o sujeito fica deitado. Grace (a cientista líder da pesquisa)
+       recebe a informação de que Jake nunca se conectou, e fica decepcionada. Jake se ajeita em
+                                              74
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+        sua cabine. Grace pergunta o porquê que ele está ali e ele reponde: “Me cansei dos médicos
+        dizendo que não sou capaz”. A cabine se fecha e a conexão se inicia; muitos painéis de
+        controle são monitorados por cientistas que se encontram do lado de fora da cabine; câmeras
+        filmam seu rosto do lado de dentro. Computadores com telas holográficas de alta tecnologia
+        mostram o comportamento dos cérebros de cada pessoa conectada; com apenas toques de
+        mãos eles manipulam as imagens de uma tela para outra. Grace se conecta na outra cabine.
+
+         O ser humano-avatar pode se dar conta dessas imagens mediante toques de mãos,
+pelos quais tem possibilidade de manipular as imagens de uma tela, transportando-a para
+outra, vendo-se como avatar em ação. Além desse modo de tomar ciência do que se passa
+consigo mesmo, há o recurso da gravação da própria história e da descrição dos
+acontecimentos do dia, com o recurso do computador, como narrados individualmente pelos
+sujeitos cientistas que se transformam em avatares para se assemelharem aos habitantes de
+Pandora.
+
+
+        Na cena descrita, deparamo-nos com uma união da pessoa com os recursos
+tecnológicos, ou seja, assistimos a um ser humano sendo com a tecnologia e tomando ciência
+de si, ou seja, percebendo-se reflexivamente. Há a tela que expõe imagens de si mesmo em
+ação como outro corpo constituído como avatar ao mesmo tempo em que o sujeito se percebe
+sendo avatar e ali estando em ação; monitores tecnológicos mostram o comportamento do
+cérebro.
+
+
+        Cena 10: Norm é controlador de Avatar e leva Jake ao laboratório onde eles se conectam ao
+        Avatar. Em sua narrativa Norm explica como foram feitos os Avatares: mistura de DNA
+        humano e dos nativos. Em sua cadeira de rodas, Jake vai até o seu Avatar que está dentro de
+        um tanque de vidro fechado com um líquido azul. O Avatar é três vezes maior que ele, tem
+        pele azul, orelhas pontudas, olhos grandes cabelos compridos e com trança, rabo como de
+        animal. Mas os traços do rosto são os do seu irmão gêmeo idêntico e, portanto, dele também.
+        Norm avisa Jake que aquele é seu Avatar, com o qual, mais tarde, ele irá se conectar.
+
+
+
+        Ao focarmos o personagem de Jake, o principal da trama, podemos nos perguntar qual
+o porquê dele ter se disposto a viver uma situação discrepante ao fluxo de sua historicidade.
+Quando Grace pergunta a razão pela qual ele está ali, responde: “Me cansei dos médicos
+dizendo que não sou capaz” (Cena 10). Essa intencionalidade18 que move seu corpo-vivo19 é
+
+
+
+
+18
+  Será trabalhado o seu significado em item específico. Entendemos intencionalidade como um fio invisível que
+nos mantém plugado a tudo o que nos cerca e que também traz o sentido e percebido em um fluxo em que fluem
+ações conscientes, como as físico, psicológicos e espirituais, abrindo possibilidades de ações reflexivas, em que
+nos damos conta de nós mesmos, de nossas ações e do que dizem.
+                                                       75
+                                MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+que o mantém ligado à totalidade das ações desencadeadas na trama que se desenrola. Os
+recursos tecnológicos permitem que ele transcenda os obstáculos postos à sua condição de
+corpo encarnado, impossibilitado de se locomover com suas pernas, na medida em que o
+coloca em outro corpo tecnologicamente constituído, que o libera. Ao perceber que pode
+mexer seus pés, que pode ficar em pé e andar, fica extasiado.
+
+
+        Cena 15: Jake encontra-se em seu Avatar e ao seu lado está Norm, em seu. Jake fica
+        extasiado com a sua situação e os cientistas insistem para ele ir com calma e ter todo
+        cuidado, mas ele não pensa em consequências e fica ainda mais animado quando percebe que
+        consegue mexer os dedos dos pés.Fica em pé e ninguém consegue segurá-lo. “Senta Jake” os
+        cientistas ordenam, ele não os escuta. Está entusiasmado com a ideia de poder andar.
+
+
+
+        Jake-avatar constitui-se, em Pandora, um corpo-próprio que se locomove em direção
+às ações que percebe como importantes no contexto em que as solicitações se mostram.
+Corpo-próprio que é uma totalidade intencional que percebe entropaticamente o outro em sua
+diferença e semelhança – ser vivo que se emociona, que quer, que é solidário, que raciocina.
+Ou seja, aparelhos eletrônicos expandem as possibilidades dos órgãos sensoriais, como os da
+visão e da locomoção, permitindo que sejam efetuados movimentos inusitados aos seres
+humanos comuns.
+
+
+        No diálogo que estabelecemos entre o filme Avatar e o curso de Cyberformação
+visualizamos consonâncias a respeito do modo de ser-com-a-tecnologia, evidenciadas pelos
+personagens do filme e pelos sujeitos do curso. Para esclarecer essa afirmação, apresentamos
+excertos20 de descrições de situações vividas no curso que revelam modos de os sujeitos, em
+formação em cursos efetuados à distância e com a tecnologia, perceberem-se, agirem e
+aprenderem sendo-com-a-tecnologia.
+
+
+
+
+19
+   Corpo vivo é o modo pelo qual Husserl (2002) se refere ao corpo que é movimento intencional, que sempre se
+dirige para algo a fazer, algo que lhe é solicitado em situação. Merleau-Ponty (1994) denomina essa ideia de
+“corps-propre”, traduzido entre nós como “corpo-próprio”.
+20
+   Os nomes aqui expressos correspondem aos nomes dos participantes do curso, os quais autorizaram o uso dos
+dados e identificação nominal em artigos científicos e/ou qualquer outro produto ligado à pesquisa. Além disso,
+como não é objetivo de nossa análise, corrigimos erros de digitação e uso de expressões coloquiais no decorrer
+do excerto. Esses excertos foram retirados da sessão de chat realizada no dia 3 de novembro de 2010, das 19h às
+21h e 03 min.
+
+                                                      76
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+                                     77
+                                 MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+          No excerto apresentado é trazida parte das discussões descritas no chat que visava
+trabalhar com o design de um problema, denominado no decorrer do curso de problema do
+Imposto de Renda (Figura 1), exigindo a disposição dos sujeitos envolvidos para perceber um
+Cyberproblema, ou seja, um problema que necessita do ciberespaço para ser
+pensado/resolvido (ROSA; VANINI; SEIDEL, 2011).
+Figura1: Problema Imposto de Renda de Pessoa Física (IRPF)
+
+
+
+
+Fonte: Curso de Cyberformação de Professores de Matemática
+
+
+          A partir da conexão que os professores/estudantes/participantes do curso
+estabeleceram com os dois vídeos no Youtube21, revelando estarem intencionalmente voltados
+para compreenderem o que estava sendo proposto, é que o problema do Imposto de Renda se
+
+
+21
+     http://www.youtube.com.br
+                                                 78
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+constituiu. Manifestou-se a articulação gerada no pensar entre a visualização dos vídeos e
+raciocínio crítico sobre o cálculo do IRPF, fazendo-se claro para esses sujeitos a possibilidade
+inicial para a resolução do problema focado.
+       Analisando esse episódio de constituição do problema para os sujeitos, vimos que ele
+explicita a concepção de ser-com, uma vez que os envolvidos no curso e nessa tarefa se
+colocam sendo-aí-no-mundo do ciberespaço. Trata-se, essa concepção, a que expõe nosso
+modo de sempre já sermos com o que nos circunda, pois somos em uma espacialidade em
+movimento de ser, portanto, sendo, junto ao que conosco também está sendo.
+       Essa nossa compreensão é evidenciada em passagens dos diálogos descritos. Alguns
+exemplos podem ser apresentados, como quando Carlos revela: “realmente a atividade não
+poderia ser feita se não estivéssemos em um ciberespaço” (19:47), ou quando Fábio diz:
+“Adriana são realidades impossíveis de serem reproduzidas em uma aula convencional”
+(19:52).
+       Nessa situação descrita, entendemos estarem se presentificando o “ser-com” o
+ciberespaço e o professor conectado ao mundo cibernético, sendo com ele, propõe atividades
+e contribui para efetuá-las, do mesmo modo que Jake, ao conectar-se ao seu avatar, consegue
+andar com as próprias pernas no mundo de Pandora. Jake vivencia situações de Jake-avatar e
+dá-se conta disso; os envolvidos no curso dão-se conta de que estar-com-o-ciberespaço
+permitiu-lhes avançar em compreensões não passíveis, segundo eles, se não estivessem sendo
+desse modo nesse espaço. Compreendemos, então, que assumir o modo de ser-humano-com-
+tecnologia permite uma compreensão específica da cognição, diferente daquela que assume
+ações do ser humano e tecnologia, que toma ambos como separados, de maneira que se faz
+uso de tecnologia, tomando-a como apoio, para o ensino e aprendizagem de matemática.
+       Com relação ao Problema 01, visualizamos a existência da constituição de avatares,
+explicitado na fala de Fábio: (19:15 Fábio): [...] podemos nos transportar como se fossemos
+assalariados que tivessem que pagar imposto. Ainda, (19:20 Fábio): pois os conceitos
+matemáticos estão implícitos em um plano que provém de um contexto social, e com a fala de
+Cristiano: (19:35): Ou seja, o indivíduo imerge na situação autenticamente...) os quais podem
+ser criados de maneira proposital, tal como evidenciado pela manifestação de Fábio: (19:23):
+Maria Lucia você não se imaginou calculando o imposto de renda de seu salário?, o que para
+Fábio significaria utilizar o vídeo para configurar o que Turkle (1997) entende por reconstruir
+uma identidade do outro lado da tela. Trata-se de uma reconstrução em curso que traduz como
+o sujeito pode se apropriar de imagens do computador e de diferentes programas para refletir
+
+                                               79
+                            MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+sobre si e isso pode suscitar uma reflexão em torno dos modos de ser-com-tecnologia
+enquanto produz conhecimento matemático.
+       Assumindo a postura de ser-com-o-ciberespaço abrem-se possibilidades de muitas
+conexões e articulações cognitivas. A fala de Fábio (19:28): pois poderiam, por exemplo, nos
+colocar como contadores calculando o imposto de renda de funcionários de uma empresa,
+evidencia que estando no/com o ciberespaço é visualizada e passível de ser constituída uma
+rede de hiperlinks que permite muitos movimentos de co-constituição, conforme entendido
+por Heidegger (1988) quando diz da abertura do ser às possibilidades que se enunciam em
+cada decisão tomada. Fábio (19:55) expõe essa realidade ao dizer: por exemplo, no problema
+do IR interagi com o meio criado pelos vídeos e as demais pesquisas que realizei acerca
+desse objeto de estudo, além de refletir sobre o meu próprio pagamento de imposto. Ou seja,
+Fábio se movimenta entre os canais existentes e é-com-o-ciberespaço, assim como, pensa-
+com-o-youtube, pensa-com-os-sites investigados e reflete sobre o IRPF do próprio Fábio
+offline. Isso, para Rosa (2008), está vinculado à aprendizagem e ao ensino de conceitos
+matemáticos.
+       Afirmamos que se não estivesse no/com o ciberespaço (Youtube, vídeos, links,
+informações etc.) Fábio não conseguiria resolver o problema. Rosa e Vanini e Seidel (2011)
+consideram ser essa uma característica nuclear do cyberproblema, pois, as possíveis soluções
+do problema estavam dependentes da conexão com o ciberespaço. Note-se que isso também
+se dá com Jake que, para alcançar ambos os objetivos, tanto dos cientistas quanto dos
+militares, precisa estar com seu Avatar, para movimentar-se em Pandora, encontrar-se com
+nativos e conhecer a realidade desse planeta.
+       Assim como Jake buscou diversos modos de chegar aos Na’vis, os múltiplos caminhos
+a serem percorridos em busca de informações e interconexões sobre visualização matemática
+do modelo do IRPF também evidenciam a própria conectividade com o ciberespaço, ou seja, a
+própria produção do conhecimento com o espaço virtual.
+       Entendemos, então, que as identidades online constituídas a partir da imersão no
+ciberespaço para a resolução do Problema 01 presentificam o processo simbiótico seres-
+humanos-ciberespaço, pois cada identidade online é-com-o-ciberespaço. Tornam-se, como no
+filme, personagens nesse contexto. Essa ideia é expressa nas falas de Fábio (19:28) ao se
+posicionar como um contador: pois poderiam, por exemplo, nos colocar como contadores
+calculando o imposto de renda de funcionários de uma empresa. Ou seja, Fábio em seu corpo
+encarnado é intencionalmente também o contador que se constitui a partir do ser-com-o-
+
+                                                80
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+ciberespaço. Cristiano (19:37) faz uma afirmação mais explícita sobre esse modo de ser: O
+individuo se posiciona diante do problema conforme suas experiências, trazendo contextos
+diversos pensando na comunidade como um todo..., uma vez que, ele não fez algo somente
+dizendo, mas fez o movimento pensando com seu avatar constituído. Isto é, Cristiano ao
+trazer suas experiências para resolver o problema torna-se um agente de enunciação desse
+problema e no ciberespaço cria um avatar para viver a situação.
+       Pelo exposto, entendemos que a produção do conhecimento matemático com o
+ciberespaço pode acontecer pela constituição de identidades online (avatares) que agem com
+os diferentes personagens criados por Fábio e Cristiano, por exemplo, e a realidade do próprio
+espaço em que se encontram: simulador, site da receita, ambiente de um contador etc.
+       Entendemos que essa compreensão do ser-com-o-ciberespaço viabiliza a produção do
+conhecimento matemático de forma potencializada. Por exemplo, a ideia de elaborar o
+modelo matemático por meio da simbiose (ser-com) com o simulador e com diferentes links
+enriquece o processo de produção do conhecimento matemático. Isso permite que essa
+produção se mostre em nuanças, potencializa as percepções e compreensões de questões
+Matemáticas a respeito de função, de análise Matemática, de crítica sobre o imposto a pagar e
+ou a restituir, por exemplo. Compreendemos, então, que assumir o estar-com-o-mundo, no
+sentido de pensar-com-tecnologia, revela o modo pelo qual acontece a produção do
+conhecimento matemático com o ciberespaço.
+
+      Pensar-com-tecnologia
+
+       Para focar o tema deste subitem, destacamos um longo processo pontuado por
+situações desafiadoras para Jake-avatar e Grace-avatar vividas em Pandora. A atitude
+intencional que os leva à Pandora, que é objetivada na ação de pesquisar as plantas e espécies
+que ali vivem, bem como fazer estudos geológicos do planeta, vai se modificando e dando
+lugar a uma atitude estética em que impera o respeito, a aceitação e a admiração pela vida e
+cultura dos Na’vis. Estes também vão se entregando ao conhecimento de ambos e aceitando
+deles a ajuda possível, frente ao perigo que se anuncia no horizonte da batalha com os
+militares terráqueos. Estabelece-se uma intersubjetividade, sustentada pela entropatia, que
+constitui, mediante ações desencadeadas, um estar-com Pandora, ou seja, estar junto, uma
+unidade intencional realizada pelos sujeitos intersubjetivamente dispostos, à cultura dessa
+comunidade.
+       Entropatia é basicamente conhecimento do outro que se desenvolve nas vivências em
+que o outro é dado (trazido, exposto) ao eu em sua corporeidade. Não se trata, assim, de um
+                                             81
+                             MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+conceito teórico ou de uma afirmação predicativamente construída. É uma experiência do
+outro, empiricamente vivida e colocada, por Husserl (2002), fenomenologicamente em
+epoché, de modo que escavando sentimentos, emoções, intuições, reflexões que são vividos
+nessa experiência, compreende suas características essenciais. Esse procedimento conduz
+regressivamente às operações constitutivas desse conhecimento, a partir do movimento de
+auto-focar-se e auto-perceber-se, efetuado por aquele que procede à redução mencionada,
+fundado na reflexão do que se mostra na vivência com o outro.
+           Visando a contribuir com a compreensão do aqui dito, expomos nossa compreensão de
+como esse movimento é explicitado por Husserl. A consciência reflexiva conduz à vivência
+do paradoxo e respectiva compreensão passível de ser objetivada, de um eu que se percebe
+como um objeto entre objetos, ou seja, como parte do mundo e das coisas no mundo e como
+um eu (objeto) que, imerso nessa realidade, vivendo com outros, se torna juiz de si mesmo,
+em primeiro lugar, e, então, das coisas e dos outros. Mergulhando em suas vivências e, em
+movimento reflexivo, colocando-se em destaque, de modo a, nesse momento, deixar em
+suspensão outras ocorrências, percebe-se, concomitantemente, como egológico e, também,
+dá-se conta do outro que sempre está na origem dessas vivências entropáticas. Esse mergulho
+permite ao autor citado que volte à tona das profundezas das reflexões com clareza a respeito
+dos atos estruturais a todos os eus, dentre os quais, destaca como os mais importantes: a
+percepção, a lembrança e a entropatia.
+           Explicando esses atos. A percepção nos coloca em contato direto com o mundo, com
+as coisas e com os outros vistos em sua corporeidade, em seu Leib22, percebidos se movendo
+intencionalmente como nós mesmos. A entropatia solicita a percepção, mas não se confunde
+com ela. Do mesmo modo, solicita a lembrança, os atos da recordação, pois com eles tem em
+comum o tornar presente.
+           Esses atos – percepção, lembrança - complexamente presentes na entropatia,
+possibilita que percebamos o outro como semelhante a nós, filtrando sentimentos, intuindo
+emoções, apreendendo modos de ser, de maneira que empatizamo-nos com o que está se
+vivendo. Permitem darmo-nos conta da alegria sentida pelo outro e, ao mesmo tempo, de
+sabermos que, originalmente, esse sentimento é vivenciado por ele e por nós mesmos de
+modos diferentes: sabendo que ele (o outro) está alegre e que sentimos com ele sua alegria,
+mas não a mesma alegria.
+
+
+
+22
+     Corpo intencional.
+                                               82
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+       Esse sentir-com, estar-junto, possibilitado pelos atos entropáticos, carrega consigo a
+possibilidade da comunicação e do diálogo, de maneira que se constituam intersubjetividades.
+       Em Pandora, ainda que tenhamos Na’vis e avatares, não ‘humanos’, deparamo-nos
+com seres que agem intencionalmente, dispondo-se a uma atitude de atenção solidária, de
+afeto, de devoção à vida, de raciocínios éticos e estéticos e que se lançam ao projeto de
+manter a vida nessa comunidade.
+       Na Cena 23 são descritas situações de luta entre seres vivos – Jake-avatar e animais de
+Pandora – e de conflito de valores entre ele e uma Na’vi. Começam a se abrir compreensões,
+na medida em que ambos vivenciam uma situação em que a vida é o foco, ainda que com
+valores diferentes. Para Jake-avatar, apenas sua vida importa; a dos animais é secundária. Para
+Neytire, a Na’vi em questão, e para seu povo, a vida de Jake e a dos animais encontram-se no
+mesmo plano. Ela vivencia a relação entropática também com os animais, seres vivos dotados
+de atos psíquicos, que se expõem em sua corporeidade. Jake, nesse momento ainda não se
+abre a essa vivência.
+
+
+       Cena 23: Já é noite e no céu avistam-se planetas em órbita. Jake faz uma tocha com um
+       pedaço de pau, uma gosma que verte das árvores e o fósforo que esta em suas coisas,
+       enquanto, ao seu redor, entre as árvores surgem animais parecidos com lobos (porém com 3
+       patas e pelo muito ralo). Jake acende a tocha e com a luz consegue enxergar dezenas deles ao
+       seu redor. Ele se defende de alguns lobos que tentam atacá-lo, com a tocha. Corre mas não
+       consegue se livrar dos animais famintos; percebe-se encurralado. Luta com alguns deles, mas
+       são muitos, até que surge Neytiri que, com conhecimento e habilidade, espanta os selvagens.
+       Ela está furiosa e fala na língua dos Na’vi, trata logo de apagar a tocha de Jake, ele vai buscar
+       a tocha que a nativa jogou no riacho, e percebe que à noite as plantas, árvores, flores da
+       floresta brilham; são luzes neon em tons de verde, azul e rosa. Ele fica encantado, enquanto
+       Neytiri está ajoelhada na frente de um dos lobos que ela matou. Ela faz uma oração,
+       evidenciando forte ligação com a natureza. Jake vai atrás dela e segurando-a pelos braços,
+       começa a agradecê-la. Com o arco, a nativa acerta o rosto de Jake propositalmente e diz: “Não
+       agradeça, você não deve agradecer por isso; isso é triste, é tristeza somente!”. Jake sente
+       muito, mas, Neytiri está brava e culpa Jake pelo que aconteceu. Ele não compreende e
+       pergunta então por que o salvou, ela responde: “Você tem um coração forte, sem medo, mas
+       estúpido! Ignorante como uma criança”. Ela sai e Jake acha graça.
+
+
+
+       Estar-junto é um ato em que a intencionalidade está dirigida ao que está ocorrendo,
+abarcando o percebido e, ao trazê-lo aos atos da consciência, delineia os rumos das novas
+ações, porém, está junto ao percebido ao expresso pelo outro.
+       A Cena 32, também, mostra a possibilidade aberta pela tecnociência, aqui
+materializada midiaticamente, e permite-nos visualizar a ligação entropática entre Jake-avatar
+e o animal com o qual irá se locomover. Há uma ênfase no andar junto com o cavalo, sentindo
+
+                                                  83
+                             MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+sua vida pela respiração e pelos batimentos do coração e, ao evidenciar que está com ele,
+orientá-lo, mentalmente, pensar-com-ele, quanto à direção a tomar e ações a efetuar. Animal,
+ser psíquico que vive emoções e as expressas em sua corporeidade. Pensando-com-o-animal,
+Jake-avatar pode se movimentar com ele. Tornam-se um único pensar, em consequência, um
+único movimento.
+
+
+       Cena 32: Neytiri está ensinando Jake a montar cavalos. Ao lado da cabeça do cavalo existe
+       uma ligação pela qual o animal e o Na’vi se conectam para andar juntos. Assim que Jake se
+       conecta, o animal se assusta, Neytiri diz que Jake tem que sentir a respiração e o coração dele
+       e dizer mentalmente aonde quer ir e o que quer fazer.
+
+
+       Essa abertura em que o outro é percebido e trazido para o centro da própria existência
+na ação entropática, se dá, em Pandora, entre os seres vivos: Na’vis, animais e plantas. Estas
+são respeitadas como organismos vivos que efetuam funções vegetativas para sobreviver e,
+mais do que isso, como que possuindo uma “alma” ou um logos que as define. A percepção
+da planta como um organismo vivo que realiza um logos ou plano de sua espécie é expresso
+na ligação que conecta Na’vis, animais e plantas, de modo que os Na’vis constituem uma
+comunidade, com características próprias e com visão de mundo, expressão da criatividade de
+seus membros e dos valores que, para eles, são tidos e mantidos como importantes.
+
+
+       Cena 51: Após a cerimônia Jake e Neytiri vão até à Árvore das Almas; é noite e tudo está
+       iluminado, eles estão alegres. Eles entram na árvore, Neytiri explica: “Este lugar é onde as
+       preces são ouvidas e, às vezes, entendidas”. Ela pega a trança e se conecta com a árvore,
+       percebe-se que a iris de seu olho aumenta, ela respira fundo, fecha os olhos e continua:
+       “Chamamos essa árvore de Utraya Mokri, a Árvore das Vozes, as vozes de nossos ancestrais.”
+       Jake pega sua trança e também se conecta, no momento seus olhos brilham com a sensação e
+       passa ouvir vozes e cantos, Neytiri continua explicando: “Eles são parte de Eywa, você é
+       Omatucaya agora, pode fazer seu arco da madeira da casa da árvore”. E olhando fundo nos
+       olhos dele ela vira as costas e diz: “E pode escolher uma mulher. Temos muitas boas
+       mulheres”. Jake ri de sua atitude e diz que já tem uma escolha, mas que ela também tem que
+       escolhê-lo. Neytiri sorri e diz que ela já escolheu. Jake a beija e os dois se amam e Neytiri diz:
+       “Estou com você agora Jake, estamos unidos para sempre”.
+
+
+
+       Cada pessoa, no caso analisado, Na’vis e homens-avatares, é ligada intencionalmente
+ao mundo, pela percepção. Cada uma está dirigida para focos, intencionalmente destacados
+nos contextos das situações vividas, nas quais há de se agir, tomar decisões, perceber-se em
+ato, pois sente com o que está a sua volta e avalia/pensa constantemente o que faz. Ao mesmo
+tempo, traz o outro em si, pois entropaticamente o compreende sentindo e vivendo como ele.
+Estabelece-se uma ligação entre cada um e o outro, constituída nessa percepção
+
+                                                  84
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+entropaticamente e na própria condição de sempre já estar no mundo, espacialidade e
+temporalidade, com o outro. Desse modo, ontologicamente, sempre já se é com o outro
+(qualquer   que   seja)   e   antropologicamente   constituem-se   intersubjetividades   pela
+complexidade das ações perceptivas, de lembrança e recordação das vivências havidas e pela
+entropatia, estabelecendo a comunicação entre pessoas, primordialmente, e entre seres vivos,
+de modos diferenciados. É mediante a constituição da intersubjetividade que a comunidade é
+constituída e se mantém como o lugar de realização da singularidade humana.
+       A conexão homem-mundo, no sentido de estar-junto-com carreando a possibilidade de
+pensar-com pode ser evidenciado também no excerto retirado da descrição da sessão de chat
+do curso de Cyberformação de professores de matemática que discutia a resolução do
+problema do Imposto de Renda de Pessoa Física (Figura 1)
+
+
+
+
+       Com o ciberespaço há um movimento diferenciado de produção do conhecimento
+matemático que se dá em aulas tradicionais, em que há um professor que sabe e expõe seu
+conhecimento e alunos que assistem à exposição e fazem exercícios para reproduzir o que
+retiveram, na medida em que a ligação a (e produção de) hipertextos ocorre de maneira fluida
+e está sempre à disposição nos programas acessados. Isso é evidenciado na fala de Adriana
+                                            85
+                           MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+(19:31): E, se alguma dúvida surge naquele momento os "campos de busca" estão acessíveis.
+Anete (20:28) também exemplifica essas afirmações ao se expor: “estava discutindo com meu
+esposo: descobri um simulador na receita que ele desconhecia”. Os objetos declarados:
+campos de busca, meu esposo e o contexto do lar, o simulador da receita etc. ao mesmo
+tempo são pensados e apresentam, cada um, características complexas, as quais se agrupam
+ou se separam de acordo com as perspectivas de onde os personagens olham: Anete e colegas
+e também o esposo de Anete que intencionalmente buscam soluções para as questões
+assumidas como importantes. Ideias se constituem e a produção do conhecimento se dá e se
+expõe com o espaço midiático vivenciado. Isto é, as ideias ressoam, ligam-se por meio de fios
+invisíveis, fazendo com que os sujeitos mergulhem em suas vivências e, em movimento
+reflexivo, coloquem-se em destaque, de modo a deixar em suspensão outras ocorrências,
+percebendo-se com o espaço. Cada um dá-se conta do outro que sempre está na origem dessas
+vivências entropáticas, pois reconhece e respeita o outro no que ele diz e na centelha que
+lança como faísca iluminadora à compreensão, como foi o caso de Adriana com o esposo, por
+exemplo, e como foi o caso Neytiri com os animais e dos Na’vis com o planeta.
+       Compreendemos, ainda, o pensar-com-tecnologia, no sentido de estar-junto-com,
+quando Anete revela seu “caminhar em busca de informação e subsequente resolução do
+Problema 1, ao dizer (20:09): em relação à atividade 1 [...] tive de ir ao site da receita e
+buscar outros sites para compreender conceitos tão específicos para cálculo do IRPF, pois,
+conforme já afirmado por Borba e Villarreal (2005), a Internet cria, amplia e viabiliza
+possibilidades de interação homem-computador (Anete –sites de informação) e homem-
+homem (Anete e colegas- via chat). Dessa perspectiva, esse movimento intencional
+hipertextual materializa a emissão e o compatilhamento de informações assumidos de
+diferentes pontos de vista. Assim, a produção de conhecimento matemático com o
+ciberespaço pode acontecer em movimentos hipertextuais, buscando informações, conectados
+por uma teia on-offline, afirmação esta exemplificada pela fala de Anete (20:17) “... cada
+tópico puxa outra informação, mais outra, mais outra...”, e ainda por Anete (20:19): “pois fui
+pesquisando vários links”. Ainda, Anete (20:28): “estava discutindo com meu esposo” e,
+novamente, Anete (20:28): “descobri um simulador na receita que ele desconhecia”. Isto é, o
+pensamento matemático perpassa uma rede de fluxos que conecta o ambiente cibernético e a
+realidade mundana (ROSA, 2008). Há diversos hiperlinks que conectam Anete tanto no
+ambiente online quanto no ambiente offline ao discutir o problema na realidade mundana com
+
+
+
+                                             86
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+seu esposo, por exemplo. Esse fluxo on-offline configura uma única realidade vivida
+intencionalmente entre realidade virtual e realidade mundana (BICUDO; ROSA, 2010).
+       Ou seja, a conexão de Jake e Neytiri aos animais e às árvores, representada no filme
+Avatar pela trança de inúmeros fios que serviam de rede neural para a produção de sinapses, é
+identificada na produção do conhecimento matemático efetuado por Anete entre seu fluxo de
+links/conexões com o ciberespaço e fora dele. Isto é, ao desenvolver o raciocínio hipertextual,
+afirmamos que amplas possibilidades de escolha se apresentam. Estamos livres de uma
+sequencialidade prévia para a construção do conhecimento. Assim, essa conexão que envolve
+o pensar-com-os-links/conexões permite esse movimento hipertextual de territorializações e
+desterritorializações (LÉVY, 2000b) e pode ser entendido, no ciberespaço, como um
+movimento plástico que configura a Cybermatemática, pois a matemática que se revela nesses
+processos, muitas vezes, é desterritorializada de definições apresentadas em seus respectivos
+quadros teóricos e passa a configurar-se, ou seja, reterritorializar-se em diferentes contextos
+constituídos no ciberespaço com luz, som, movimentos específicos.
+       O pensar-com-o-ciberepaço, evidenciado no filme Avatar quando se pensa-com-o-
+planeta desvela o movimento que se faz com o mundo, com o outro e consigo mesmo.
+Portanto, tanto no filme Avatar, quanto quando se assume a concepção fenomenológica
+humano-tecnologia, estabelece-se um processo que traz o outro (ser online) aos atos da
+consciência, pois o compreende sentindo e vivendo como ele. Como já dito, estabelece-se
+uma ligação entre cada um e o(s) outro(s), constituída nessa percepção entropática e na
+própria condição de sempre já estar no mundo-com-o-outro.
+
+
+
+
+Intencionalidade manifesta no Saber-fazer-com-tecnologia
+
+
+       Entendemos intencionalidade como um fio invisível que nos mantém ligados a tudo o
+que nos cerca e que também traz o sentido e o percebido em um fluxo em que fluem ações
+conscientes, como as físicas, psicológicas e espirituais, abrindo possibilidades de ações
+reflexivas, em que nos damos conta de nós mesmos, de nossas ações e do que dizem.
+       Mesmo na união de diferentes aspectos – DNA, material siliconado, recursos
+tecnológicos – constituindo uma totalidade “humanos-avatares-ciberespaço”, o ato de dar-se
+conta de, ou seja, de estar-se ciente daquilo que está ocorrendo conosco e do que estamos
+fazendo, é evidenciado como importante para o projeto científico-militar do filme, uma vez
+
+                                              87
+                                   MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+que o relato é tido como essencial para que os acontecimentos fiquem documentados em
+vídeo-depoimentos.
+            Abaixo transcrevemos a Cena 11, exemplificando modos de Jake dar-se conta de si:
+
+
+            Cena 11: Jake grava sua narrativa, em frente a um computador, contando os acontecimentos
+           do dia como se fosse um diário. Ele foi instruído a documentar tudo. Nesse relato, ele fala que
+           o convidaram para a missão porque o Avatar é de seu irmão e com a morte deste, Jake era o
+           único que podia substituí-lo, pois eram gêmeos idênticos – o DNA de ambos era semelhante –
+           e a construção de um Avatar é muito dispendiosa para ser desperdiçada.
+
+
+
+           O “dar-se conta de” é um ato pelo qual a consciência refletida mantém-se atenta ao
+percebido no próprio ato de percepção ou ao efetuado no movimento de “se estar fazendo”23.
+Chama-nos a atenção a presença da mídia que permite estender os sentidos, como o de ouvir o
+falado enquanto se fala, podendo-se voltar, pelo movimento da reflexão, e dar-se conta do
+falado retido tanto pela memória humana, quanto naquela de equipamentos que gravam.
+Entretanto, é preciso que seja evidenciada a importância do percebido na gravação, o qual não
+está no gravado em si, porém nas articulações (cognitivas) efetuadas por aquele(s) que
+busca(m) compreender o que ali se mostra a partir de perguntas que formulam uma
+perspectiva visada.
+           Aspectos específicos do modo do ser humano ser no mundo mostram-se e mantém-se
+em atividades efetuadas com a tecnologia, quando a intencionalidade se presentifica nas
+tomadas de posição, por exemplo. Assim, junto aos equipamentos, os sujeitos estão atentos,
+conduzem e se conduzem. A Cena 35 traz uma situação significativa, quando os presentes –
+cientistas, técnicos e avatares – são informados a respeito da impossibilidade de contar com os
+instrumentos de navegação da nave que utilizavam no momento, uma vez que há interferência
+de forças, o que não permite conexão. Desse modo, é preciso conduzi-la, pelos seus próprios
+sentidos, direcionando-se em relação ao alvo.
+
+
+           Cena 35: A equipe está indo rumo ao posto 26 e Grace diz que estão quase chegando. Trudy,
+           que está pilotando a aeronave, concorda e aponta para seus instrumentos que estão com
+           interferência. Avisa que a partir dali estará em Modo Visual, o que significa que irão ter que
+           olhar bem para onde vão. Eles entram em uma neblina forte e branca e, de repente, essa
+           neblina fica para traz e as montanhas flutuantes aparecem. São montanhas sem base, que
+           flutuam no ar e em algumas há cachoeiras. São centenas de montanhas. Todos dentro da nave
+           estão maravilhados com a paisagem.
+
+
+
+23
+     Essa ação é denominada por Husserl, em diferentes obras, de Erlebnis.
+                                                        88
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+          Nessa cena são trazidas atitudes intencionais diferentes. Uma que visa ao objetivo
+posto, explicitado em termos da direção para onde os condutores da espaçonave devem se
+locomover, efetuando a tarefa determinada. Para ir em direção ao objetivo é preciso
+desencadear atos calculados com base em conhecimentos prévios de navegações e em outros
+científicos e tecnológicos, evidenciando a atitude denominada por Husserl de teorética
+(HUSSERL, 2002). Outra, que traz a pessoa se maravilhando com a beleza da paisagem bela
+e não corriqueira para os padrões de suas experiências prévias. Há um abandonar-se à
+experiência estética. Esse abandono abre possibilidades de compreensão para além das
+categorias teóricas e, também, sensibiliza o sujeito ao que se descortina, preparando-o para
+experiências diferentes e para a compreensão do estranho.
+          A mesma pessoa, mediante a mudança do olhar, aqui entendido como o foco da
+atenção, pode, concomitantemente, viver ambas as posturas assumidas intencionalmente
+(BICUDO, 2012). A primazia de uma ou de outra, depende do olhar intencional. Este olhar
+diz da atenção voltada para algo que se objetifica, ao ser percebido e trazido na corrente do
+fluxo das vivências, quando estamos nos dando conta dos aspectos empíricos da experiência
+que revela o objeto e em que se dão intencionalidades elementares. Ao se objetificar, pode se
+tornar alvo de reflexão, quando passamos para uma consciência intencional. Nesse
+movimento intencional, temos sempre o cogito, ação efetuada pelo ego, pólo subjetivo, com o
+correspondente cogitatum, ou seja, o pensado, que também carrega a cogitatio, os modos e
+ações de pensar. O pensado solicita por validades contínuas as quais se efetuam pelo sentido
+percebido por sujeitos intencionadores, constituindo compreensões efetivas e passíveis de
+serem explicadas. Cogito-cogitatio-cogitatum são rubricas eminentemente cartesianas, porém
+aqui, na abordagem fenomenológica husserliana, é efetuada uma inversão, de maneira que a
+primeira rubrica não é o cogito, mas o intencionado e o percebido, que é o mundo-vida. Este
+se mostra como um campo de todas as atividades interligadas aos sujeitos, cada qual tomado
+tanto em sua individualidade, como na interligação de todos os sujeitos, assumidos em seu
+conjunto que revela a intersubjetividade24.
+          O mundo-vida, como solo de todas as vivências, se mostra como “índice intencional
+para as multiplicidades de aparições que, ligadas na síntese intersubjetiva “[...] é o que está
+orientado para o mundo comum e para as coisas [...] ligadas ao nós geral” (HUSSERL, 2008,
+p.186).
+
+24
+  Trata-se de uma esfera constituída pela comunidade de co-sujeitos, mediante atos de entropatia e na dimensão
+da comunicação efetuada no corpo-próprio e explicitada de maneira mais organizada, refletindo o logos e a
+estrutura lingüística da linguagem.
+                                                     89
+                                  MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+           Qual o mundo-vida da equipe em Pandora? É aquele de experimentos científicos,
+avatares prontos a tomarem o lugar do corpo-vivo como o trazido pelos terráqueos, é aquele
+de um lugar estranho habitado por seres desconhecidos a ser investigado, é um mundo de
+disputas bélicas entre comunidades que têm à mão equipamentos diferentes e com forças
+díspares, bem como, com atitudes diferentes em relação à vida. Do lado da equipe de
+militares, o modo de ver Pandora é aquele que aponta o diferente, outra cultura vista como
+inferior e não digna de respeito; ambiente inóspito, algo muito ruim, infernal, não habitável e
+que ali está para ser usado e de onde devem ser extraídos os recursos desejados, valendo, para
+tanto, o emprego de força destruidora.
+           À medida que a equipe de cientistas adentra a comunidade de Pandora, instala-se um
+desafio, pois tendem a assumir os valores dessa comunidade, rejeitando aqueles mantidos
+pelos militares que representam os valores supremos atribuídos ao capital e aos do vencedor
+de uma batalha. Os membros da equipe de Grace voltam sua atenção para a harmonia da vida
+em Pandora e sua intencionalidade se dirige para um modo de convívio que destaca a atitude
+de estar-com os seres desse planeta. A entropatia, percepção do igual que se dá na
+imediaticidade do ver-visto25, aqui se expande para além da percepção do outro como ser
+humano igual a mim e abrange o diferente e a visão compreensiva da vida.
+           Demo-nos conta da ligação entropática se dando entre os sujeitos presentes ao curso
+de Cyberformação. Essa percepção é compreendida ao destacarmos a fala de Adriana no chat,
+por exemplo. Ela, ao ter que saber-fazer-com o ciberespaço, revela “Exigia [o problema] que
+explorássemos outros ‘meios’... virtuais ou não... Eu, por exemplo, usei os vídeos, o próprio
+site da receita e outros...” Ela toma essa constatação como fator de encorajamento para
+enfrentar uma provocação evidenciada pelo cyberproblema. Mostra a produção de uma
+estrutura organizacional de busca de informação nos próprios vídeos, no site da receita e
+outros lugares que refletem que seu pensar está fluindo como a lógica de interconexões do
+próprio computador. Isso nos conduz ao trabalho de Rosa (2008), quando afirma:
+                             [..] quando estamos no ciberespaço, estamos “com” o ciberespaço também,
+                             pois nos tornamos materialmente tão formados por bits quanto o lócus no
+                             qual nos encontramos. Somos textos, imagens, sons digitalizados e expressos
+                             via a tela e alto-falantes da máquina. Manifestamos nossos desejos,
+                             sentimentos, valores, por meio da rede, assim como, nossos modos de
+                             pensar. O computador, então, possibilita o tornarmo-nos [...] “ser-com”,
+                             também [...] o “pensar-com”, entre outras características do “ser” que se
+                             encontra com este tempo/espaço diferenciado (ROSA, 2008, p.102).
+
+
+
+25
+     Ver-visto aqui mencionado diz do noesis-noema como tratado pela fenomenologia.
+                                                      90
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+Reunindo as ideias articuladas: uma síntese compreensiva
+       A presença da tecnologia no nosso cotidiano vivido se mostra em aspectos que
+transcendem, e muito, a relação de uso de utensílios postos à disposição para efetuarmos
+nossas tarefas. Damo-nos conta de que ela está no âmago da própria constituição de modos de
+sermos ao mundo e de efetuarmos operações cognitivas. Como foi mostrado no artigo que
+estamos a finalizar, vários autores têm apontado e trabalhado essa constatação. Vamos em
+direção a esses estudos, expondo a presença da tecnologia em modos específicos da
+constituição   do   ser-com-o-outro   efetuar-se   junto   ao   ciberespaço.   Destacamos   a
+intencionalidade manifesta no ser-com, pensar-com e saber-fazer-com tecnologias e
+expusemos compreensões sobre esse com que diz da unidade, ou seja, da constituição de uma
+totalidade.
+       O solo de compreensões já articuladas em que nos locomovemos é fruto de uma
+tessitura de estudos filosóficos fenomenológicos, de realidade do ciberespaço e sobre
+Educação Matemática com tecnologias. Expusemos essa tessitura mediante recortes de
+situações/cenas extraídas de um filme que se nos mostrou significativo a esse tema, Avatar, e
+de diálogos descritos e gravados em chat de um curso de Cyberformação, realizado a
+distância, de professores de matemática. Expusemos significados e modos de compreender
+intencionalidade, ser-com-o-outro e saber-fazer-com-tecnologia levando-nos a avançar e
+antever modos de se fazer Educação Matemática com tecnologias.
+
+
+
+
+Referências
+ALES BELLO, A. L’Universo nella coscenza. Pisa: ETS, 2007.
+
+AVATAR. Direção: James Cameron. Produção: James Cameron e Jon Landau. Roteiro:
+James Cameron. Intérpretes: Sam Worthington; Sigourney Weaver; Michelle Rodriguez; Zoe
+Saldana; Giovanni Ribisi; Joel Moore. [EUA: Fox Film], 2009. 1 DVD (162 min).
+
+BICUDO, M.A.V. A constituição do objeto pelo sujeito. In: TOURINHO, C. D. C. (Org).
+Temas em Fenomenologia. A tradição fenomenológico-existencial na filosofia
+contemporânea. Rio de Janeiro: Booklink, 2012. p. 77 – 95.
+
+________. Pesquisa qualitativa fenomenológica: interrogação, descrição e modalidades de
+análises. In: BICUDO, M.A.V. (Org.) Pesquisa Qualitativa. São Paulo: Cortez Editora, 2011.
+p. 41-52.
+
+________. A formação do professor: um olhar fenomenológico. In: BICUDO, M. A. V.
+(Org.). Formação de Professores? Bauru: EDUSC, 2003. p.7-46.
+
+
+                                             91
+                           MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+
+BICUDO,        M.A.V.;       ROSA,       M.       Philosophical aspects present in questions
+regarding mathematics education and technology. In: INTERNATIONAL
+CONGRESS ON MATHEMATICAL EDUCATION, 12., 2012. Seoul – Proceedings...
+COEX, Seoul, Korea: International Committee of Mathematics Instruction , 2012. Disponível
+em: <http://www.icme12.org/>. Último acesso em: 20 dez. 2012.
+
+________. Realidade e Cibermundo: horizontes filosóficos e educacionais antevistos.
+Canoas: Editora da ULBRA, 2010.
+
+BORBA, M. C.; VILLARREAL, M. E. Humans-with-media and the reorganization of
+mathematical thinking: information and communication technologies, modeling,
+visualization, and experimentation. New York: Springer Science, 2005.
+
+DÉJÀ VU. Direção: Tony Scott. Produção: Jerry Bruckheimer. Roteiro: Bill Marsilii e Terry
+Rossio. Intérpretes: Denzel Washington; Val Kilmer; Paula Patton e outros. [EUA:
+Touchstone Pictures / Jerry Bruckheimer Filmes / Scott Free Productions], 2006. 1 DVD (128
+min).
+
+HEIDEGGER, M. Ser e Tempo. Petropolis: Vozes, 1988.
+
+HOUAISS. Dicionário Houaiss da Língua Portuguesa. 1. ed. Rio da Janeiro: Editora Objetiva,
+2001.
+
+HUSSERL, E. A crise das ciências européias e a fenomenologia transcendental. Tradução
+Diogo Facão Ferrer. Lisboa: Centro de Filosofia – Universitas Olisiponensis, 2008.
+
+HUSSERL, E. Idee per una fenomenologia pura e per una filosofia fenomenologica – Vol. II.
+Torino: Biblioteca Einaudi, 2002.
+
+KERN, I. The three ways to the Transcendental Phenomenological Reduction in the
+Philosophy of Edmund Husserl. In: ELLISTON, F.; MACCORNICK, P. (Ed.). Husserl
+Expositions and Appraisals. Notre Dame/Londres:University of Notre Dame Press, 1977. p.
+126-149
+
+LÉVY, P. O que é virtual? Tradução Paulo Neves. 7. re. São Paulo: Editora 34, 2005.
+
+________. Cibercultura. Tradução Carlos Irineu da Costa. Tradução de Cyberculture. 2. ed.
+São Paulo: Editora 34, 2000a.
+
+________. A Inteligência Coletiva: por uma antropologia do ciberespaço. Tradução Luiz
+Paulo Rouanet. 3. ed. São Paulo: Edições Loyola, 2000b.
+
+MERLEAU-PONTY, M. Fenomenologia da Percepção. Tradução C.A.R. de Moura. São
+Paulo: Martins Fontes, 1994.
+
+PINNELLI, S. Internet Addiction Disorder and Identity on line: the educational relantionship.
+2002.                                   Disponível                                       em:
+<http://www.informingscience.org/proceedings/IS2002Proceedings/papers/Pinne088Inter.pdf
+>. Último acesso em: 10 set. 2006.
+
+PRIBERAM.         Dicionário      da      Língua      Portuguesa.        Disponível      em:
+http://www.priberam.pt/dlpo. Último acesso em: 09 jun. 2011.
+                                             92
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+
+ROSA, M. Atividades Semipresenciais e as Tecnologias da Informação: Moodle - uma
+plataforma de suporte ao ensino. In: MATTOS, A. P. de; ROCHA, D. G.; FONSECA, G.;
+ANNES, J. P.; VAISZ, M. L.; WEBER, M. D.; DAL-FARRA, R. A. (Org.). Práticas
+Educativas e Vivências Pedagógicas no Ensino. Canoas: ULBRA Editora, 2011. p.135-147.
+
+_________. A Construção de Identidades Online por meio do Role Playing Game: relações
+com o ensino e aprendizagem de matemática em um curso á distância. Tese de Doutorado em
+Educação Matemática - UNESP, Rio Claro, 2008.
+
+ROSA, M. VANINI, L. SEIDEL, D. J. Produção do Conhecimento Matemático Online: a
+resolução de um problema com o Ciberespaço. Boletim GEPEM. Rio de Janeiro:
+Universidade Federal Rural do Rio de Janeiro, n.58, p.70-94, 2011.
+
+TURKLE, S. A Vida no Ecrã: a Identidade na Era da Internet. Tradução Paulo Faria. Lisboa:
+Relógio D’Água Editores, 1997.
+
+
+
+
+                                          Descrição do filme Avatar26
+Cena 01: Vista de árvores, como se alguém estivesse voando e uma voz masculina dizendo: Quando eu estáva deitado no
+centro para veteranos no hospital, com um grande vazio no meio da minha vida, eu comecei a sonhar que estava voando, eu
+estava livre!”
+Cena 02: Um olhar se abre e a mesma voz continua a pensar: “Às vezes demora, às vezes é rápido, mas a gente sempre tem
+que acordar”. Então mostra um homem deitado, o mesmo que estária narrando sua própria história. Ele está dentro de uma
+cabine tecnológica; nesse momento ele se lembra de seu irmão gêmeo que era cientista e agora está morto. Por isso ele está
+no seu lugar, viajando anos-luz em estado criogênico por 5 anos, 9 meses e 22 dias.
+Cena 3: Enfermeiros cientistas abrem as cabines e a cena mostra muitos homens saindo delas, eles estão todos flutuando,
+inclusive os enfermeiros. Eles avisam que irão se sentir fracos, com fome e com náuseas. O homem cujo nome é Jake Sully e
+que continua narrando sua história e explicando que, na verdade, cientista é o irmão dele, mas ele é apenas um militar burro
+com uma missão da qual sabe que vai se arrepender.
+Cena 04: No espaço, uma nave gigantesca está rumo ao planeta Pandora.
+
+Cena 05: Uma nave pequena sai de dentro da nave grande e se aproxima do primeiro planeta; dentro dela existem muitos
+homens (os que estavam nas cabines), todos eles de máscara de oxigênio e recebendo recomendações para a própria
+sobrevivência. No planeta já há homens trabalhando e operando máquinas, maiores que as convencionais.
+Cena 06: Jake está entre os homens na nave pequena; lembra-se de quando seu irmão foi cremado, pensando: “Uma vida
+termina, outra começa.”
+Cena 07: A pequena nave pousa, e a sua rampa abaixa. Com muitas ordens os homens deixam a nave com seus pertences e
+com pressa. Nesse momento, Jake (paraplégico) com dificuldade se ajeita em sua cadeira de rodas. Quando ele sai da nave,
+depara-se com soldados e robôs grandes, com armas e comandados por humanos. Os soldados que já estão no planeta
+comentam de maneira maldosa sobre o “cara de cadeira de rodas”. Jake está observando o ambiente e então para uma
+máquina gigante sobre rodas em sua frente e nas rodas estão cravadas flechas com penas coloridas.
+Cena 08: Em uma sala, o chefe de segurança, que também é Coronel, está dando ordens e avisos aos soldados. Eles têm uma
+missão no planeta Pandora, e o Coronel deixa claro que estár em Pandora é pior que o inferno. Jake entra na sala enquanto o
+sargento explica que existe uma população nativa de humanóides chamada de Na’vi, que usam flechas com uma neurotoxina
+que pára o coração em um minuto. Avisa também que os humanóides têm ossos naturalmente reforçados com fibra de
+carbono o que dificulta matá-los. Termina ditando as regras de sobrevivência em Pandora.
+
+
+26
+  Essa descrição foi parte integrante da Iniciação Científica da aluna Priscila C. Maciel da Silva na Universidade
+Luterana do Brasil, sob orientação do Prof. Dr. Maurício Rosa.
+                                                            93
+                                     MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+Cena 09: Jake conhece Norm Spellman, colega de seu irmão no treinamento de Avatar.
+
+Cena 10: Norm é controlador de Avatar. Leva Jake ao laboratório onde eles se conectam ao Avatar. Em sua narrativa Jake
+explica como foram feitos os Avatares: mistura de DNA humano e dos nativos. Em sua cadeira de rodas Jake vai até o seu
+Avatar que está dentro de um tanque de vidro fechado com um líquido azul. O Avatar é três vezes maior que ele, tem pele
+azul, orelhas pontudas, olhos grandes cabelos compridos e com trança, rabo como de animal. Mas os traços do rosto são os de
+seu irmão gêmeo e,portanto, também os dele. Norm avisa Jake que aquele é seu Avatar, com o qual, mais tarde, ele irá se
+conectar.
+Cena 11: Jake está gravando a sua narrativa, como se fosse um diário, em frente a um computador. Ele foi instruído a
+documentar tudo. No vídeo ele relata que o convidaram para a missão porque o Avatar é de seu irmão e com sua morte ele,
+Jake, poderia substituí-lo, uma vez que eram gêmeos idênticos e a construção de um Avatar é muito dispendiosa para ser
+desperdiçada.
+
+Cena 12: Aparece um Laboratório Cientifico, com muitos equipamentos modernos e cabines de conexão. As cabines se
+abrem e cientistas se desconectam de seus Avatares. Em uma delas sai uma cientista reclamando e pedindo seu cigarro. É a
+Drª. Grace Augustine. Norm apresenta-lhe Jake e ela fica furiosa, pois Jake não tem o conhecimento científico para estar ali.
+Vai falar com Selfridge. Enquanto ela sai do laboratório, um dos cientistas avisa Jake para estar ali às 8h do outro dia.
+
+Cena 13: Em outra sala, ainda mais sofisticada do ponto de vista de aparato tecnológico, com muitas maquetes eletrônicas em
+cima de mesas mostrando o planeta Pandora em 3D, uma equipe está trabalhando concentradamente, enquanto Selfridge -
+que é mais que um simples funcionário - está brincando de jogar Golf. Grace vai até ele e discute sobre o caso de Jake. Ela
+está irritada e o acusa de estar querendo acabar com o seu trabalho; ele se defende dizendo que Jake vai ser muito útil como
+fuzileiro, mas a última coisa que ela quer é um fuzileiro. Ele diz que o objetivo é conquistar os nativos, e é por isso que
+existem os Avatares, para que possam andar e agir como nativos e que isso não está acontecendo, e sim piorando. Grace
+retruca dizendo: “É isso que acontece quando se usa armas de fogo contra eles (os nativos).” Então para convencer Grace que
+se mostra uma mulher defensora do planeta, Selfridge aponta para uma pedra, que está em um suporte flutuando e logo se
+compreende que se trata de algo raro. Ele diz que é por isso que eles, terráqueos, estão ali, por causa do Unabtanium que é
+uma pedra cinza, valendo 20 milhões de dólares o quilo e que se encontra no planeta Pandora. De modo agressivo diz à Grace
+que é com esse dinheiro que pagará toda aquela “festa” e sua “ciência”. Conclui dizendo que os selvagens estão atrapalhando
+o trabalho e por isso estão à beira de uma guerra.
+Cena 14: Os Avatares estão deitados em macas em uma sala de observação com cientistas, enquanto Grace leva Jake até a
+sua cabine de conexão. A cabine tem um molde de silicone em forma de corpo humano onde o sujeito fica deitado. Grace
+recebe a informação de que Jake nunca se conectou e fica decepcionada. Jake se ajeita em sua cabine. Grace pergunta o
+porquê de Jake estar ali e ele reponde: “ Me cansei dos médicos dizendo que não sou capaz”. A cabine se fecha e a conexão
+se inicia, muitos painéis de controle são monitorados por cientistas que se encontram do lado de fora da cabine, câmeras
+filmam seu rosto do lado de dentro. Monitores de alta tecnologia mostram o comportamento dos cérebros de cada pessoa
+conectada. Com toques de mãos eles manipulam as imagens de uma tela para outra. Grace se conecta na outra cabine.
+Cena 15: Em um piscar de olhos Jake acorda em uma sala de observação, primeiramente avista os cientistas ao seu redor. Ele
+se encontra em seu Avatar e, ao seu lado, está Norm, no seu. Jake fica extasiado com a sua situação e os cientistas insistem
+para ele ir com calma e ter todo cuidado, mas ele não pensa em consequências, fica mais animado quando percebe que
+consegue mexer os dedos dos pés pé. Ele fica ereto e ninguém consegue segurá-lo. “senta Jake” os cientistas ordenam, ele
+não os escuta. Está entusiasmado com a ideia de poder andar.
+Cena 16: Jake foge correndo, ele está emocionado com a sensação de poder fazer aquilo que não pode com seu corpo-
+próprio. Todos correm atrás dele, ele para e observa o ambiente fora do laboratório, e sente a terra úmida em seus pés. Grace,
+em seu avatar, sai de uma cabana e vai ao seu encontro. Ele fica surpreso ao vê-la. Ela joga uma fruta em sua direção - as
+frutas, as árvores tudo muito diferente e colorido em Pandora – Jake come a fruta suculenta e adora tudo aquilo.
+Cena 17: Agora Jake e Grace estão em uma cabana com mais Avatares e cientistas. Jake nota na ponta da trança de seu
+Avatar que existe algo que parece ter vida própria, e pensa em voz alta: “Que coisa esquisita!”, ao fundo Grace avisa que
+aquilo ali não é brinquedo. Ele dorme em seu corpo de Avatar e de repente acorda em seu corpo humano.
+
+Cena 18: Trudy, uma jovem piloto das missões, se apresenta a Jake. Em um pavilhão estão estacionadas máquinas. Trudy
+mostra seu helicóptero. Jake fica surpreso com tantos equipamentos e pergunta se é necessário tudo aquilo. Ela responde que
+sim, pois tem coisa muito maior lá fora. Diz também que o quer na arma externa, pois ali tem um homem a menos. Nisso ela
+aponta um homem com quem Jake deve falar. É o mesmo homem que estava amedrontando e instruindo os saldados sobre a
+dificuldade de sobrevivência em Pandora e os modos de protegerem-se: o Coronel e chefe de Segurança da missão. Ele vai,
+de imediato, dando avisos a Jake. Mostra a cicatriz que tem na cabeça, uma marca de três garras, e diz que aquilo ali foi logo
+no primeiro dia naquele planeta. Deixa claro que, para ele, o programa Avatar é inútil, porém acha uma boa oportunidade.
+
+                                                             94
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+Enquanto fala ele entra em um robô preparado para receber os seus movimentos. Já dentro do robô é como se o mesmo fosse
+o seu próprio corpo naquele momento. Na cena existem muitos desses com armas nas mãos, todos comandados por homens.
+Jake se impressiona e logo percebe o modo de ser do Coronel, que está lhe dando ordens para que ele ganhe intimidade com
+os nativos, visando forçá-los a cooperarem com a missão, ou para destruí-los, caso não aceitem acordos. Jake apenas
+concorda. O Coronel, que se mostra agressivo, se movimenta dentro do “seu” robô e segue seus movimentos. Diz para Jake
+que se conseguir as informações que solicitou, ele lhe dará suas pernas quando voltarem de Pandora. Jake diz: “Parece bom,
+Senhor”, não muito animado.
+
+Cena 19: Conectados em seus Avatares, Jake, Norm, Grace e mais algumas pessoas da equipe estão sobrevoando um rio com
+uma nave. Em volta deles muitos pássaros passam. São grandes, com quatro asas e cor lilás azulado. A nave pousa no meio
+da floresta. Parte da equipe está armada, inclusive Jake. Apenas Grace, Norm e Jake vão para dentro da mata fechada. Ali
+existem muitos insetos, plantas e animais diferentes. Jake avista animais pulando de galho em galho, como se fossem
+macacos na Terra, mas os de Pandora são azuis, com dois antebraços e mãos em cada braço, “Prolêmures!” diz Grace, “não
+são agressivos!”
+Cena 20: Com aparelhos eletrônicos Norm e Grace enxergam os movimentos interiores das plantas, com uma agulha ela faz
+uma translução de sinal de uma raiz para outra, Norm comenta que deve ser elétrico, baseado na velocidade da reação.
+Enquanto isso Jake vai entrando mata adentro. Com sua curiosidade descobre coisas diferentes do que costuma ver, até que
+toca em uma folhagem em forma de espiral e ela imediatamente se fecha. Jake gosta da brincadeira até aparecer entre elas um
+animal enorme, parecido com um dinossauro, enraivecido. Jake aponta a arma, mas o animal não se intimida e vai em sua
+direção. Norm e Grace aparecem, e a cientista recomenda Jake a não atirar, pois vai deixá-lo mais irritado. Ele avisa: “Mas
+ele já está irritado”. Ela explica que a couraça é grossa, que o animal está disputando território e é melhor não correr, se não
+ele ataca. Jake diz: “O que eu faço? Danço com ele?” Grace: “ Mostre que o lugar é seu!” Jake desafia a fera que está
+correndo em sua direção, quando ficam frente a frente, Jake solta um grito e a fera recua, mas não é por conta de seu grito e
+sim porque atrás de Jake se aproxima um animal maior e ainda mais severo que o primeiro. Jake se assusta e pergunta a
+Grace se com esse ele deve correr, Grace responde: “Corre, com certeza corre!” Ele corre entre as árvores enquanto a fera
+vem atrás dele. Jake tenta atirar no animal que não se intimida. Com a boca ele pega Jake pela mochila, e Jake a solta de seu
+corpo e continua correndo até encontrar um precipício com uma cachoeira e salta. Ele cai na água e a correnteza o leva. Lá
+em cima a fera está muito brava por ter perdido a batalha.
+Cena 21: Com o acontecido, Jake se perde de seus colegas. Agora está perdido na mata de Pandora. Enquanto anoitece ele faz
+lanças com pedaços de galhos, para se defender de outros possíveis animais. Em cima de uma das árvores, está uma nativa
+observando Jake. Sua aparência é como o Avatar de Jake, porém seus traços são femininos, e suas curvas como de uma
+mulher humana. Nota-se sua beleza como nativa. É Neytiri, filha de líderes da sua região. Ela está com arco e flechas nas
+mãos para atirar em Jake, mas, nesse momento, um ser parecido com uma pequena água viva voa com delicadeza e pousa na
+ponta da flecha de Neytiri. Trata-se da semente da árvore sagrada. Ela recebe aquilo como um sinal de Eywa, a divindade dos
+Na’vi, e desiste de sua intenção.
+
+Cena 22: O sol está se pondo e a equipe faz uma busca com o Helicóptero. Trudy, que o está pilotando, avisa que operação
+noturna não é permitida e que Jake irá ter que aguentar até de manhã. Então Grace afirma: “Ele não ira durar até de manhã”.
+
+Cena 23: Já é noite e no céu avistam-se planetas em órbita. Jake faz uma tocha com um pedaço de pau, uma gosma que verte
+das árvores enquanto, ao seu redor, entre as árvores, surgem animais parecidos com lobos (porém com 3 patas e pelo muito
+ralo). Jake acende a tocha e com a luz consegue enxergar dezenas deles ao seu redor. Ele se defende de alguns lobos que
+tentam atacá-lo, com a tocha. Corre mas não consegue se livrar dos animais famintos; percebe-se encurralado. Luta com
+alguns deles, mas são muitos, até que surge Neytiri que, com conhecimento e habilidade, espanta os selvagens. Ela está
+furiosa e fala na língua dos Na’vi, trata logo de apagar a tocha de Jake, ele vai buscar a tocha que a nativa jogou do riacho, e
+percebe que à noite as plantas, árvores, flores da floresta brilham; são luzes neon em tons de verde, azul e rosa. Ele fica
+encantado, enquanto Neytiri está ajoelhada na frente de um dos lobos que ela matou. Ela faz uma oração, evidenciando forte
+ligação com a natureza. Jake vai atrás dela e segurando-a pelos braços, começa a agradecê-la. “Com o arco, a nativa acerta o
+rosto de Jake propositalmente e diz:” não agradeça, você não deve agradecer por isso; isso é triste, é tristeza somente!”. Jake
+sente muito, mas Neytiri está brava e culpa Jake pelo que aconteceu. Ele não compreende e pergunta então porque o salvou,
+ela responde: “ Tem um coração forte, sem medo, mas estúpido! Ignorante, como uma criança”. Ela sai e Jake acha graça.
+
+Cena 24: Ele corre em sua direção, quando percebe que está em um gigantesco galho de uma árvore, a centenas de metros do
+chão. Enquanto os dois correm, Jake pede a ela que então o ensine o que ela sabe. Furiosa ela responde que pessoas, como
+ele, não podem aprender, nem ver. Diz que vá embora, afirmando que não deveria estár ali. Nisso aparecem dezenas de
+sementes da árvore sagrada flutuando em volta de Jake. Ele pergunta a ela do que se trata e a mesma responde que são
+sementes da árvore sagrada, são espíritos puros. As sementes pousam em Jake, Neytiri fica boquiaberta e percebe mais um
+sinal de Eywa e, mudando de atitude, diz para que Jake SIGA.
+
+
+                                                              95
+                                     MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+Cena 25: Ao correrem pela mata adentro vê-se que as pegadas de Jake e Neytiri realçam o brilho no chão e, quando encostam
+nas plantas, as mesmas também ficam com o brilho mais intenso. Jake pergunta o nome da nativa quando um laço com
+pedras nas pontas enrolam suas pernas e o derrubam. De repente surgem outros nativos homens em seus cavalos. Os cavalos
+têm seis patas. Jake tenta correr, mas os nativos o ameaçam com seus arcos e flechas. A nativa interfere na briga. Tsutey, um
+dos nativos, desce do cavalo, desprendendo sua trança dele. Diz à Neytiri que aqueles demônios são proibidos ali. Ela
+responde que receberam um sinal e que aquilo era assunto para os Tsahik.
+Cena 26: Os nativos levam Jake para uma grande árvore onde se encontram muitos nativos, é onde vivem os Na’vi. Todos
+ficam olhando curiosos e Jake é levado até o pai de Neytiri, que é o líder daquele clã. Ele pergunta à nativa porque trouxe
+aquela criatura ali e ela responde: “Eu ia matá-lo, mas recebi um sinal de Eywa”. Jake não entende o que eles falam pois
+estão falando na língua do Na’vi; pergunta à nativa o que estão falando, ela responde: “Meu pai está decidindo se mata ou
+não você.” Jake fica surpreso por ele ser o pai da nativa e se aproxima para cumprimentá-lo e todos em sua volta o seguram e
+apontam suas flechas. Até que surge a mãe de Neytiri, ela veste trajes diferentes com colares e roupa colorida e ordena para
+que se afastem de Jake e diz: “Vou examinar este forasteiro.” A nativa explica que essa é sua mãe Tsahik que é interpretadora
+da vontade de Eywa e que é a deusa dos Na’vi. Tsahik examina Jake e pega de seu colar algo pontiagudo e espeta em Jake,
+pegando uma amostra de seu sangue e passa na língua. Jake explica que está ali para aprender e que pode confiar nele, pois
+não é cientista e sim um guerreiro, o pai da nativa se interessa, pois Jake é o primeiro caminhante guerreiro a passar ali e diz
+que precisam aprender mais sobre ele. Tsahik diz à filha para ensinar todos os costumes a ele, o que deixa Neytiri furiosa.
+Tsahik diz para Jake que terá que aprender direito para ver se a sua insanidade será curada.
+Cena 27: Jake aparece com Neytiri vestido como um nativo (poucas roupas e artesanais), nota-se seu desconforto com a nova
+roupa, Neytiri leva-o a uma roda com nativos e uma fogueira no meio, todos jantam e olham Jake.
+Cena 28: Neytiri leva Jake para dormir, os aposentos são redes naturais penduradas entre os galhos da árvore onde fica a casa
+dos Na’vi. Jake dorme.
+Cena 29: Jake acorda na cabine de conexão no seu corpo humano. Ao seu redor estão os cientistas inclusive Grace que
+pergunta primeiramente se o Avatar está seguro e ele responde: “Sim senhora, e nem vai acreditar onde o deixei!”
+Cena 30: Jake está no laboratório das maquetes, ele está contando o que viveu em seu Avatar para Selfridge e o Coronel que
+mostram em uma das maquetes a árvore onde os Na’vi moram e com brincadeiras insinuam que ele é o cara que irá
+convencê-los a sair dali, pois abaixo da aldeia deles está o maior depósito de Unabtanium em um raio de centenas de
+quilômetros. O Coronel deixa claro que se eles não aceitarem a coisa vai ficar feia para eles e que Jake terá três meses para
+cumprir sua missão até chegarem as máquinas de terra planagem.
+Cena 31: Jake está se preparando para a conexão, enquanto Grace mostra retratos em uma prancha eletrônica dos Na´vi que
+Jake conheceu, e ensina a pronunciar corretamente os nomes. Grace mostra Neytiri e Tsutey, e explica que eles serão os
+novos líderes do clã assim que se casarem. Jake se conecta.
+
+Cena 32: Neytiri está ensinando Jake a montar nos cavalos, ao lado da cabeça do cavalo existe uma ligação onde o animal e o
+Na’vi se conectam para andar juntos, assim que Jake se conecta, o animal se assusta, Neytiri diz que Jake tem que sentir a
+respiração e o coração dele e dizer mentalmente onde quer ir e o0 que quer fazer. Jake cai nos primeiros passos do cavalo,
+Neytiri se diverte, até que surge do meio da mata Tsutey e seus amigos. Jake está embarreado por conta do tombo. Na língua
+dos Na’vi, sem que Jake entenda, Tsutey diz a Neytiri que ele nunca irá aprender e vai embora.
+Cena 33: Na sala das maquetes Jake está explicando sobre a árvore para Selfridge e o Coronel, diz que eles não conhecem
+por completo a estrutura interna; explica que existe colunas resistentes no lado de fora e que o anel secundário é muito
+resistente, um dos cientistas está subindo as escadas e observa Jake.
+
+Cena 34: Jake recebe a informação de Grace que estão de saída, ela diz que não vai deixar que Selfridge e o Coronel
+controlem tudo. Há um módulo de conexão remota no posto 26 nas montanhas que permite a conexão dos Avatares. Norm
+fica extasiado com a ideia de ir até as montanhas flutuantes.
+Cena 35: A equipe está indo rumo ao posto 26, Grace diz que estão quase chegando. Trudy que está pilotando, concorda e
+aponta para seus instrumentos que estão com má interferência, e avisa que a partir dali estárá em Modo Visual, o que
+significa que irão ter que olhar bem para onde vão. Eles entram em uma neblina forte e branca e, de repente, essa neblina fica
+para traz e as montanhas flutuantes aparecem. São montanhas sem base, elas estão flutuando no ar e em algumas tem
+cachoeiras, são centenas delas, todos dentro da nave estão maravilhados com a paisagem.
+
+Cena 36: A nave pousa no posto 26, Grace liga os equipamentos que estão dentro de um container. Jake observa o lugar e
+encontra fotos do Avatar de Grace com os nativos e então narra: “Grace percebeu tudo, ela sabia que eu estáva falando com o
+Coronel, mas eu tinha o que ela precisava: um jeito de voltar a falar com o Clã. Então ela fazia vista grossa.” Jake se prepara
+para se conectar novamente.
+
+                                                              96
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+Cena 37: Jake está em seu Avatar, pulando de galho em galho com Neytiri. Eles param e ela faz um som com sua voz para
+chamar os pássaros que são enormes, maior que os Na’vi. Jake se assusta quando a ave pousa em frente à Neytiri que explica
+que não deve olhar em seus olhos, ela agrada a ave alimentado-a e diz que Ikran (a ave) não é cavalo, que depois que a
+ligação acontece ele, Jake, voará apenas com um caçador por toda a vida. Neytiri se conecta com seu Ikran e monta, dizendo
+que para se tornar um caçador precisa escolher seu próprio Ikran e ele precisa escolher você, mas isso quando estiver pronto.
+Neytiri solta um grito e sai voando com a ave.
+Cena 38: No laboratório Jake está gravando seu vídeo diário; conta o que está aprendendo, enquanto mostra cenas de Jake
+fazendo suas tarefas em corpo de Avatar. Uma música toma conta da cena, enquanto Jake narra suas experiências. Ele relata a
+ligação forte que os Na’vi tem com a natureza, mostra o animal, que o fez se perder na floresta, dando carinho e amor para
+seus filhotes. Diz que convenceu Mo’at a deixar Grace entrar na aldeia, e foi a primeira vez desde que a sua escola fechou
+(mostra Grace com a crianças Na’vi, elas tocam em seu cabelo e Grace brinca com elas). Em outro momento Jake e Neytiri
+estão na mata à noite e observam um pequeno animal, parecido com um camaleão. Jake o toca e ele arma um espiral em suas
+costas de cor rosa fluorescente e escapa voando e rodopiando.Grace tem que levar Jake em seu corpo humano para dormir,
+que se mostra muito empolgado com a experiência. Mostra Jake já usando o arco e a flecha. Neytiri ajeita seus braços e seu
+rosto fica próximo do rosto dele, os dois se olham; percebe-se um clima romântico, Neytiri se afasta e disfarça
+orgulhosamente o clima. Neytiri vai até uma folhagem e de suas folhas colhe a água para beber; nota-se o brilho nos olhos de
+Neytiri e sua satisfação. Em outro momento Jake continua narrando: “Eu estou tentando entender está forte ligação que o
+povo tem com a natureza. Ela fala de uma rede de energia, que flui através de todas as coisas vivas, diz que toda a energia é
+só emprestáda e que um dia tem que ser devolvida.”
+
+Cena 39: Mostra Jake em sua primeira caça, ao lado está Neytiri, ele aponta para a presa, ao mesmo tempo em que a mesma
+percebe e emite um som, ele lança e acerta a presa, ela está gritando e, na língua dos Na’vi, Jake agradece: “Eu te vejo irmão,
+e te agradeço” e enfia no peito do animal uma faca artesanal, “Que seu espírito se junte a Eywa, seu corpo fica aqui para se
+tornar parte do grupo” Neytiri afirma: “Morte limpa” e diz que Jake está pronto.
+Cena 40: O grupo jovem de Na’vi está em seus cavalos subindo uma montanha. Eles estão a milhares de metros do chão,
+estão subindo em uma montanha flutuante, até que chegam ao topo (uma música invade a cena) de uma pequena montanha
+que se parece com uma rocha que se movimenta. Mas eles parecem saber que nada demais irá acontecer. Jake está junto e
+pergunta à Tsutey “E agora?”, então passa o cipó e Tsutey o agarra os outros na’vi também e por fim Jake. Entre as
+Montanhas Flutuantes existem ligações de cipós, raízes intercaladas e é como o grupo circula de uma a outra. Eles saem de
+uma caverna dentro de uma das montanhas. Ao lado está uma linda cachoeira e a vista impressiona Jake: montanhas
+flutuantes e milhares de pássaros voando e cobrindo o céu. Neytiri chega com seu Ikran. Com ar de deboche Tsutey diz que
+Jake irá atravessar a cachoeira primeiro para chegar até os pássaros, Neytiri não gosta do jeito de Tsutey com Jake. Quando
+Jake atravessa a cachoeira Neytiri o acompanha. Do outro lado estão as aves e Neytiri diz para Jake escolher seu Ikran e
+sentir quem vai escolher ele. Jake pergunta: “Como vou saber que ele me escolheu?” Neytiri responde: “Ele tentará te matar”.
+Cena 41: Com um laço Jake se prepara, aproximando-se das aves gigantes que estão agitadas e nervosas com a presença
+deles. Algumas delas saem voando quando Jake se aproxima e logo em seguida chega o grupo de Tsutey. Jake ameaça alguns
+Ikrans, mas eles fogem, até que um o afronta. Tsutey ri e, na língua dos Na’vi, diz que ele irá morrer. Jake luta com o animal
+que o joga longe e o grupo ri, enquanto Neytiri permanece preocupada. Jake pula novamente em cima do Ikran e consegue
+fazer a ligação, dizendo que agora a ave lhe pertence e a ave mostra-se mais calma. Neytiri avisa que o primeiro vôo sela a
+ligação e que não pode esperar, e diz para Jake pensar em voar; assustado ele pergunta: “Voar?” e a ave sai voando confusa,
+Jake não sabe controlá-la até que irritado fala: “Ah, cala boca e voa direito!” e a ave simplesmente obedece e segue voando
+corretamente conforme seus comandos. Na montanha Neytiri se alegra, os amigos de Tsutey gritam “Jakesully”, e Tsutey se
+irrita. Neytiri corre para o seu Ikran para se encontrar com Jake, os dois voam juntos com seus Ikran pelas montanhas e
+olham-se sorrindo.
+Cena 42: O grupo está voando e Jake e Neytiri estão juntos. Jake a provoca com seu Ikran e os dois brincam. Tsutey fica
+bravo e chama a atenção deles, eles dão risasa e se divertem juntos. Neytiri mostra uma árvore branca com folhas compridas
+e caídas e põe a mão no coração.
+
+Cena 43: No posto 26 Jake em seu corpo humano está com a barba por fazer e mais magro, percebe-se que ele deixou seu
+corpo humano em segundo plano. A equipe está analisando nos monitores os lugares onde Jake voou com Neytiri. Grace
+explica que aquela árvore é o lugar mais sagrado para os Na’vi, que é a Árvore das Almas. Grace observa o campo de fluxo
+nas imagens coloridas e constata que há algo cientificamente curioso acontecendo ali, onde forasteiros são proibidos de entrar
+e diz para Jake que ele é um sortudo.
+Cena 44: Jake e Neytiri estão voando com seus Ikran quando, de repente, do alto surge uma ave enorme maior que o Ikran
+habitual. É um predador, a ave persegue Jake e Neytiri, eles entram na floresta e entre árvores e cipós conseguem se livrar do
+animal.
+
+                                                             97
+                                     MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+Cena 45: Mais tarde Neytiri mostra para Jake o crânio do predador que encontraram e diz que seu povo o chama de Grande
+Leonopteryx, Neytiri explica que esse é Totuk, última sombra e que conta a história que o avô de seu avô que foi Toruk
+Macto, Cavalheiro da Última Sombra
+
+;, diz que isso só aconteceu cinco vezes desde as primeiras canções e conta que seu tataravô era muito poderoso. Jake fica
+interessado na história.
+Cena 46: Jake acorda na cabine de conexão e pensa: “Est´z tudo ao contrario agora. Como se la fosse o mundo real, e aqui
+fosse o sonho”
+
+Cena 47: Em seu depoimento diário Jake diz: “Difícil acreditar que já se passaram três meses... não sei mais quem eu sou.”
+(esfrega os olhos e o rosto, está com o rosto abatido)
+Cena 48: Com um rosto triste Jake faz a barba.
+Cena 49: Em uma sala no posto central Jake está sentado pensativo até que chega o coronel e ironicamente pergunta a Jake se
+por um acaso ele se perdeu na floresta, pois seu último relatório já tem mais de duas semanas e diz que já está na hora de
+terminar a missão. Jake diz que não pode fazer isso e o Coronel afirma que ele já fez, pois já deu muitas informações
+valiosas, comenta que vai pegá-los de jeito com a Árvore das Almas quando tudo aquilo virar uma guerra, que Jake terá suas
+pernas conforme prometido e que naquela noite mesmo já estárá em uma espaçonave. Jake diz: “Preciso terminar isso, só há
+mais uma coisa. Uma cerimônia. A etapa final para me tornar um homem. Se eu fizer isso serei um deles, confiarão em mim,
+e posso negociar os termos da mudança deles.” Eles ficam se olhando, o Coronel diz: “Bem, então é melhor terminar, cabo!”
+Jake baixa os olhos com olhar triste.
+Cena 50: Em seu Avatar Jake participa do ritual, Neytiri está pintando seu rosto com uma tinta branca. O pai dela diz que
+agora ele faz parte do povo, ele põe as mãos em seu ombro, Neytiri sorri orgulhosa e também põe suas mãos no ombro de
+Jake, então todos os na’vis colocam as mãos nos ombros uns dos outros, formando uma corrente em circulo com Jake no
+meio. Grace, que está em seu Avatar, se emociona.
+Cena 51: Após a cerimônia Jake e Neytiri vão até à Árvore das Almas; é noite e tudo está iluminado, eles estão alegres. Eles
+entram na árvore, Neytiri explica: “Este lugar é onde as preces são ouvidas e às vezes entendidas.” Ela pega a trança e se
+conecta com a árvore, percebe-se que a iris de seu olho aumenta, ela respira fundo, fecha os olhos e continua: “Chamamos
+essa árvore de Utraya Mokri, a Árvore das Vozes, as vozes de nossos ancestrais.” Jake pega sua trança e também se conecta,
+no momento seus olhos brilham com a sensação e passa ouvir vozes e cantos, Neytiri continua explicando: “Eles são parte de
+Eywa, você é Omatucaya agora, pode fazer seu arco da madeira da casa da árvore.” E olhando fundo nos olhos dele ela vira
+as costas e diz: “E pode escolher uma mulher. Temos muitas boas mulheres.” Jake ri de sua atitude e diz que já tem uma
+escolha, mas que ela também tem que escolhê-lo. Neytiri sorri e diz que ela já escolheu. Jake a beija e os dois se amam e
+Neytiri diz: “Estou com você agora Jake, estámos unidos para sempre”.
+
+Cena 52: Jake acorda na cabine e se pergunta: “ Que diabos está fazendo Jake?”
+
+Cena 53: Já é dia e Jake está dormindo com Neytiri em seu Avatar, quando ela acorda, vê uma maquina derrubando as
+árvores, ela tenta acordar Jake, mas ele não está conectado e está com Norm e Grace em seu corpo humano que o forçam a
+comer algo enquanto Neytiri o arrasta para a máquina não o pegar. Jake se prepara para a conexão, se conecta e acorda em
+seu Avatar. Ele levanta e logo grita para a máquina: “Parem, parem.” Sem sucesso. A câmera da maquina filma Jake e
+Neytiri. O operário da máquina chama Selfridge que vai até o monitor tranquilo, e mostra pela câmera o nativo que está
+bloqueando sua lâmina. Selfridge ordena para seguir. Jake e Neytiri correm. Por trás da máquina Jake vai até a câmera e a
+quebra com uma pedra, o visor fica sem sinal, eles ficam a cegas. Do lado de fora existem soldados e robôs com armas. Um
+dos soldados atira na direção de Jake. Ele se encontra com Neytiri e saem correndo. Tsutey e seu grupo chegam ao local e
+vêem a destruição. Neytiri chora com o caos.
+Cena 54: O Coronel vê o Avatar de Jake na câmera e o reconhece, ficando furioso, e logo providência um piloto.
+Cena 55: Na casa da árvore dos Na’vi, todos estão reunidos e o pai de Neytiri dá ordens, vai começar uma guerra, todos
+gritam em sinal de brado, Grace interfere e diz que assim as coisas só vão piorar. Tsutey diz que ela não dá opinião ali e que
+vai atingir o coração deles. Jake e Neytiri chegam de mãos dadas. Ele avisa a Tsutey para não fazer isso. Tsutey vê que os
+dois estão de mãos dadas e furioso pergunta a Jake se ele acasalou com Neytiri. Grace fica surpresa, a mãe de Neytiri
+pergunta se aquilo é verdade ela responde: “Nos unimos diante de Eywa. Está feito.” Tsutey não acredita, Jake diz para ele
+não atacar o povo do céu se não muitos Omaticayas irão morrer. Tsutey o ataca, Jake se defende e diz que não é ele que é seu
+inimigo, que os verdadeiros estão lá fora.
+Cena 56: Uma nave pousa no posto 26, onde estão conectados os Avatares de Grace e Jake. Norm fica assustado ao avistar os
+soldados.
+
+
+                                                             98
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+Cena 57: Na casa da árvore Jake tenta convencer Tsutey a falar com o povo do céu, ele não escuta Jake e parte para cima dele
+novamente; eles lutam. Após isso, Jake começa a falar: “Sou Omaticaya, sou um de vocês e tenho o direito de falar. Tenho
+algo a dizer a todos vocês. As palavras são como pedras em meu coração.”
+
+Cena 58: No acampamento Norm tenta impedir o coronel, mas ele desliga a conexão de Grace, que no Avatar desmaia,
+quando Jake tenta falar em seu Avatar, o Coronel desliga a cenexão de Jake também. Ele desmaia em seu Avatar. Tsutey o
+pega pelos cabelos pronto para o degolar, mas Neytiri não o deixa, pula em suas costas e o joga longe, e fica próxima de Jake
+como um animal defendendo seu filhote. Tsutey se indigna.
+
+Cena 59: Jake sai da cabine, e se depara com o Coronel: “Você enlouqueceu completamente” diz ele. O Coronel responde:
+“Você passou dos limites.” E dá um soco em Jake que o desmaia.
+
+Cena 60: Na sala das maquetes o Coronel mostra a Jake e Grace, a gravação de Jake destruindo a câmera da máquina e diz
+que ele o desapontou. Grace explica: “Aquelas árvores são sagradas para eles como nem pode imaginar. Achamos que existe
+um tipo de comunicação eletroquímica entre as raízes das árvores, como sinapses entre neurônios. E cada árvore tem mais de
+dez mil conexões com as árvores ao redor. E há um trilhão de árvores em Pandora, são mais conexões que cérebro humano.
+Entenderam? É uma rede global, e os Na’vi podem acessá-la. Podem transferir informações, dados, memórias. Em locais
+como esse que acabou de destruir.” Selfrigde a olha e ri de sua cara, ao fundo o Coronel também ri, então Grace diz: A
+riqueza desse mundo não está no chão, mas á nossa volta. Os Na’vi sabem disso e vão lutar para defendêla.” Grace avisa que
+têm que entendê-los. O Coronel diz que já entenderam graças a Jake e mostra um vídeo diário de Jake desabafando que nada
+vai fazer os Na’vi sair da casa da árvore, pois eles já têm tudo. O coronel conclui que já que um acordo não é possível, as
+coisas ficam bem mais simples, e de uma forma irônica agradece Jake, que fica triste e desapontado.
+
+Cena 61: Trudy vai até Jake e Grace e avisa que o Coronel usará fogo aéreo, pois quer atingir a casa da árvore. Grace vai
+direto à sala das maquetes para falar com Selfridge.
+Cena 62: Do lado de fora da sala muitas naves estão se preparando para a guerra, Grace e Jake vão ate Selfridge e tentam
+convencê-lo, mas ele diz que os Na”vi são apenas selvagens repugnantes vivendo em árvores, e como têm tantas árvores eles
+podem se mudar. Jake pede mais uma chance para tentar convencê-los.
+Cena 63: Jake e Grace se preparam para a conexão. Selfidge dá uma hora para Jake.
+Cena 64: Jake e Grace estão com Neytiri na casa da árvore. Jake avisa que quer falar algo: “Um grande mal se aproxima, o
+povo do céu está a caminho, para destruir a casa da árvore, me mandaram pra cá para aprender seus costumes e para que
+desse essa mensagem e vocês acreditassem nela.” Neytiri pergunta: “O que está dizendo Jake? Sabia que isso ia acontecer?”
+ela está surpresa e desapontada, enquanto Jake se explica ela vai se afastando e brava diz a Jake que confiou nele e ela o
+empurra e se afasta, todos o olham com rancor. O pai de Neytiri ordena que amarrem Jake e Grace.
+Cena 65: As naves estão à caminho da árvore, “um minuto para o alvo!” E o Coronel está em uma delas.
+
+Cena 66: Jake e Grace estão amarrados, os Na’vi estão em sua volta, até que escutam do céu as naves se aproximando. Jake e
+Grace aconselham a eles a irem para a floresta e que saiam dali, mas eles não atendem. Tsutey avisa que não é para temer. O
+vento das hélices é forte, o que dificulta os nativos. O pai de Neytiri ordena Tsutey a pegar os Ikran e atacá-los por cima. As
+naves estão todas posicionadas em volta da árvore. Pela câmera da nave o Coronel vê Jake e Grace amarrados e diz: “Ora,
+ora, quem diria que a diplomacia não deu certo” e ordena que a equipe use as bombas de gás. As bombas são lançadas, os
+Na’vi se assustam, crianças e adultos caem e começam a tossir. Os Na’vis começam a lançar flechas, então o Coronel ordena
+sua equipe para lançar as bombas incendiárias. As bombas são lançadas e os Na’vi começam a correr, o fogo da bomba se
+alastra. O pai de Neytiri ordena a todos irem para a floresta. O Coronel diz: “Que então se espalhem as baratas.” Jake chama
+Neytiri para soltá-los, mas ela o ignora. A mãe de Neytiri vai até Jake ofegante, chorando e com uma faca artesanal aponta
+para ele .Grace grita que não, então ela diz: “ Se é um de nós, por favor nos ajude.” E corta a corda de Jake e Grace.
+Cena 67: O Coronel ordena que use os explosivos potentes na base das colunas a oeste. Grace e Jake, soltos, correm juntos
+com os Na’vi. Os mísseis são lançados.
+Cena 68: Trudy que está pilotando uma das naves e não dispara os mísseis, um colega da equipe pergunta a ela o que está
+fazendo e ela responde: “Não foi pra isso que me alistei.” E se separa da equipe. Muitos Na’vi são atingidos. A árvore enfim
+começa a ranger seu caule, próximo às raízes e a partir-se. Jake prevê o que vai acontecer e pede que corram. Alguns dos
+nativos que estão em cima da árvore pegam rápidos seus Ikran, a árvore desaba ferindo muitos.
+Cena 69: Neytiri olha em volta e tudo está destruído. A expressão de pavor está no rosto de todos, eles se ajoelham, gritam e
+choram, além de perderem sua casa e familiares a natureza está machucada. Jake olha em volta e vê a dor dos nativos.
+Cena 70: Na sala de maquetes Selfridge e mais pessoas da equipe assistem à destruição em uma tela panorâmica, todos estão
+aparentemente chocados.
+
+                                                             99
+                                     MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+Cena 71: Na nave o Coronel elogia a equipe e diz que já podem ir embora.
+Cena 72: Neytiri encontra seu pai, ele está muito ferido, ela se desespera, em suas últimas palavras ele diz a ela: “Filha pegue
+meu arco. Proteja o Povo.” Após as palavras ele morre. Logo vem Jake procurando Neytiri, ele a encontra ajoelhada em
+frente a seu pai, Jake sente muito, mas ela manda que ele saia e nunca mais volte.
+Cena 73: Na sala de Selfridge onde todos estão olhando para a destruição, Selfridge ordena que desliguem as conexões, os
+cientistas dizem que eles não podem fazer isso, os soldados vão imediatamente em direção às cabines. Norm tenta impedir e
+dá um soco em um dos soldados, a conexão de Grace é desligada e ela cai em seu Avatar e os nativos que estão por perto a
+carregam. O Avatar de Jake também é desligado e ele desmaia sozinho na floresta em meio às cinzas, enquanto sua voz
+comenta ao fundo: "Era um guerreiro que achava que traria paz, cedo ou tarde, no entanto sempre temos que acordar." Jake é
+tirado da cabine a força, e aparenta estar desacordado. Norm está algemado, Grace também é algemada, e debatendo-se ela
+chama Selfridge de assassino. Os Na'vi estão na floresta andando juntos, Neytiri para e olha para traz e avista a árvore
+destruída.
+
+
+Cena 74: Grace, Norm e Jake estão presos numa cela com porta de vidro, Trudy traz o alimento e pede permissão ao guarda
+que                                                        está                                                   vigiando.
+Ela disfarça e faz brincadeiras, o guarda se abaixa para ver a comida quando Trudy o rende batendo com um revolver em sua
+nuca, ordenando-lhe que deite. O guarda desmaia, ela chama Max que é um dos cientistas, que abre a porta de vidro para eles
+saírem.
+
+
+Cena 75: Eles correm para a nave. Jake pede a Max para ficar, pois precisa de alguém de confiança ali. Trudy prepara a
+máquina, até que um assistente avisa o coronel que tem algo de errado acontecendo e lhe mostra no monitor Jake, Norm e
+Grace                                  entrando                                na                                 nave.
+
+
+Cena 76: Grace e Norm sobem Jake na nave, o Coronel pega uma arma de um soldado e vai até eles sem pegar a máscara de
+oxigênio. Ele atira na nave de Trudy e ela decola, Jake comemora, eles olham para Grace percebem que ela foi atingida na
+barriga.
+
+
+Cena 77: Já no posto 26 Norm e Trudy deslocam o container onde estão as cabines de conexão. Jake ordena para seguirem
+para o norte, bem no meio das montanhas. Grace está deitada na cabine muito debilitada e Jake diz que irá ajudá-la, mas
+Grace está desacreditada de que ira sobreviver. Então Jake diz que o povo pode ajudá-la, Grace responde: "E porque irão
+querer nos ajudar?"
+
+
+
+Cena 78: Os nativos estão todos na Árvore das Almas, enquanto a voz de Jake vem do fundo: "O povo diz que Eywa cuida de
+todos aqueles sem lar, sem esperança. Só haveria um lugar a se ir."
+
+
+Cena 79: O container chega ao destino. Norm pergunta para Jake qual é o plano e diz que não tem nenhum plano. Ele se
+conecta e acorda no meio da parte destruída da floresta, cinzas balançam no ar, está tudo cinza esverdeado. Jake avista uma
+paisagem destruída da floresta, até que do alto vem seu Ikran, parece que o animal estava ali aquele tempo todo o esperando
+por ele. Então Jake avisa o Ikran que vão ter que fazer algo que ele não vai gostar. Ele se conecta e voa com seu Ikran.
+
+
+Cena 80: Sobrevoando acima de Toruk com seu Ikran, Jake narra:"sabia que o Toruk era fera mais temida. Nada o atacava,
+por que ele olharia para cima ". Jake se aproxima de Toruk, quando chega perto se atira em cima dele.
+
+
+Cena 81: Todos os Na'vi estão em frente a Árvore das Almas, estão cantando, é um culto.Uma grande sombra se aproxima,
+todos ficam assustados,é Jake com Toruk, ele pousa e todos se afastam assustados. Todos olham impressionados para Jake,
+ele alisa e acalma a fera. Jake passa em meio a multidão de Na'vi e todos o adoram e se ajoelham. Jake vai em direção de
+Neytiri e ela o olha fundo nos olhos. Eles se cumprimentam na maneira dos nativos. Jake pega em seu rosto, ela diz que
+temia por seu povo, mas que agora não teme mais, Jake vai até Tsutey, diz que ele é o grande guerreiro, e Tsutey o
+cumprimenta pelo fato de ter montado em um Toruk. Jake pede ajuda por Grace.
+
+
+Cena 82: A noite chega, e todos os Na'vi estão sentados em volta da árvore; é um grande culto para pedir a Eywa para que o
+espírito de Grace deixe seu corpo humano para viver em seu Avatar. Jake leva o corpo de Grace até os Na'vi e o carrega até a
+
+                                                             100
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+ponta da árvore, ela está acordada e Jake mostra onde estão. Grace fica maravilhada com a visão da Árvore das Almas e diz
+que gostaria de pegar algumas amostras. Norm carrega o Avatar de Grace para o mesmo lugar, então fica o corpo Avatar e o
+corpo humano deitados de frente um para o outro. Grace está nua, com apenas algumas folhas cobrindo partes de seu corpo e
+com máscara de oxigênio. A mãe de Neytiri explica: "Eywa pode salvar tudo o que ela é neste corpo", mas avisa que ela está
+muito fraca.
+
+Cena 83: Uma prece começa ser feita pela Mãe de Neytiri e os nativos repetem cada frase. Até que tudo para e Grace chama
+Jake e diz: "Eu estou com ela Jake, ela é real." Grace avista uma grande luz e morre. Eywa leva Grace em paz. Jake não
+entende,                   a                   mãe                   de                  Neytiri                  explica:
+ "As feridas eram muito profundas. Não houve tempo o bastante." Todos ficam tristes. Jake pede a permissão de Tsutey para
+falar e diz que seria uma honra se ele o traduzisse, então Jake começa: “O povo do céu me mandou uma mensagem que
+podem tomar o que eles quiserem e ninguém pode impedi-los. Mas nós mandaremos uma mensagem a eles. Voem o mais
+rápido que o vento permitir, e peçam aos outros clãs que venham. Digam que o Toruk Macto os chama. Voem agora comigo!
+Meus irmãos e irmãs! E mostraremos ao povo do céu que não pode tomar o que quiserem e que essa é a nossa terra. Todos se
+levantam, e levantam as mãos em brado de força. Jake e Neytiri dão as mãos e saem correndo no meio da multidão e todos os
+acompanham. Jake monta em Toruk Macto com Neytiri e saem voando, alguns Na’vi vão ao encontro de seus Ikran e voam
+junto com Jake, outros pegam seus cavalos. Eles seguem viajando sobre mares e montanhas rumo aos outros clãs, todos os
+povos concordam com muita garra e os seguem. Jake aparece com um novo cabelo, raspado dos lados.
+
+Cena 84: No posto dos soldados, o Coronel está dando ordens e avisando que os Na’vi estão se reunindo e preparando para
+atacar. As janelas do auditório onde estão se fecham transformando-a em uma grande tela que reflete as imagens. Estas
+mostram que o número de Na’vi subiu de algumas centenas para dois mil em um dia. O Coronel explica que dali uma semana
+poderá ser mais de vinte mil e que assim podem invadir os seus perímetros, diz que vão ter que fazer um ataque antecipado.
+Mostra outra imagem onde se encontra a Árvore das Almas, os soldados dão risada quando o Coronel conta que aquele é um
+lugar sagrado para os Na’vi, e que ira destruir de forma que os nativos ficarão mil quilômetros afastados dali. Os soldados
+batem palmas e concordam com tudo.
+Cena 85: Os robôs e soldados concordam com tudo.
+Cena 86: No acampamento Jake, Norm e Trudy estão se comunicando pelo monitor com Max (o cientista de confiança que
+ficou no posto dos soldados), que avisa rapidamente a missão do coronel e logo desliga. Jake não teme e diz que eles estão
+em vantagem, pois conhecem as montanhas.
+Cena 87: À noite Jake em seu Avatar vai até a Árvore das Almas, ele se ajoelha diante dela, e com sua trança se conecta em
+uma das folhas compridas da arvore e pede a Eywa: “ Se Grace estiver com você, dê uma olhada nas memórias dela, veja que
+no mundo de onde viemos não existe mais verde lá. Mataram a mãe deles, e farão a mesma coisa aqui, o povo do céu virá
+como chuva que não tem fim, a menos que os empeçamos.” Chega Neytiri sem que Jake perceba, ela então diz que a grande
+mãe não toma partido, ela só protege o equilíbrio da vida, Jake responde que vale a tentativa.
+Cena 88: As naves levantam vôo; os Na’vi vão ao encontro deles com seus Ikran. Os soldados e os robôs descem das naves
+no meio da floresta. Os soldados empurram os explosivos mais próximos da porta. As naves estão nas montanhas flutuantes,
+os Na’vis estão escondidos com seus Ikran acima deles, mas os soldados não percebem, pois os instrumentos de visualização
+por calor ficam ruins nas montanhas flutuantes.
+Cena 89: Na floresta onde os soldados foram deixados, eles escutam um barulho forte, o solo se movimenta, o que está vindo
+se aproxima rápido, eles olham em seus monitores e vem que estão a quatrocentos metros de distância, Os Na’vi estão vindo
+em sua direção com seus cavalos, Norm está em uma deles com uma arma na mão. Os cavalos se aproximam dos soldados
+que ficam a postos, pois são milhares de Na’vi. Nas montanhas Jake e os outros Na’vi se preparam para atacar as naves. O
+Toruk de Jake pega uma nave com as garras e atira contra as montanhas, a nave explode, Tsutey e Neytiri acertam flechas
+nos pilotos. O Coronel comanda que todas as naves atirem à vontade enquanto muitas naves estão caindo.
+Cena 90: Na floresta os Na’vi vão de encontro aos soldados, e os mesmos estão a postos e começam a atirar, muitos Na’vi
+são atingidos, Norm acerta alguns soldados com sua arma.
+Cena 91: Nas montanhas flutuantes o Coronel ordena que quebre a formação e enfrentem os inimigos, então as naves se
+viram e atiram nos nativos, muitos Ikran são atingidos. Norm cai de seu cavalo e se comunica com Jake por Walkie-talkie
+pequeno que fica no ouvido, ele diz que estão recuando pois estão sendo massacrados.
+Cena 92: O Coronel, que está em uma nave maior, ordena para irem atrás de Jake, uma nave menor também persegue Neytiri.
+Cena 93: O Coronel escuta tiros atingidos por Trudy em sua nave, ele ordena que acabem com ela, frente a frente Trudy
+continua atirando, o piloto que está ao lado do coronel acerta na nave de Trudy.
+
+
+
+                                                           101
+                                    MARI A AP ARE CI DA VI GGI ANI BI CUDO e M AURÍ CI O ROS A
+
+
+
+Cena 94: O Ikran de Neytiri é atingido e cai, Neytiri desaba junto com ele, ela corre até o seu Ikran e vê que está morto, em
+sua volta Neytiri vê a destruição e alguns de seus irmãos e animais sendo atingidos.
+Cena 95: Tsutey pula em uma das naves e com sua flecha acerta alguns soldados, mas eles são muitos, um dos soldados
+atinge Tsutey.
+Cena 96: Trudy avisa a equipe de Jake que foi atingida, a nave de Trudy está caindo quando um tiro ordenado pelo Coronel
+explode a sua nave. O Avatar de Norm é atingido.
+Cena 97: Na floresta sozinha Neytiri não sabe o que fazer.
+Cena 98: Em seu Toruk, Jake tenta falar com seus parceiros.
+Cena 99: Norm sai da cabine de conexão, ele sente a dor do tiro que seu Avatar levou.
+Cena 100: A nave se aproxima da Árvore das Almas, os soldados armam os explosivos.
+Cena 101: Neytiri se comunica com Jake, ela está escondida atrás de uma árvore e do outro lado estão se aproximando muitos
+soldados que ainda não a enxergaram. Ela avisa que seu Ikran morreu e que tem muitos soldados vindo em sua direção. Jake
+a avisa para não atacar, mas ela não escuta e prepara seu arco e flecha. Os soldados vêem em seus monitores um movimento
+muito grande vindo. Neytiri enxerga de longe grandes animais vindo, o mesmo que tentou atacar Jake na primeira vez.
+Neytiri se assusta, mas eles passam reto por ela e vão direto em direção aos soldados. Batem nos soldados e os atropelam. Os
+soldados tentam recuar, mas os animais são mais rápidos. Neytiri diz a Jake que Eywa o ouviu. Jake escuta e olha para traz
+quando e avista muitos Ikrans vindo. São milhares que atacam as naves, alguns colocam a cabeça dentro das naves pegando
+os atiradores com a boca, os lobos também começam a atacar os soldados na floresta e Neytiri luta junto com eles com sua
+flecha, quando aparece ao seu lado o mesmo animal feroz que fez Jake se perder na floresta, o que Grace o aconselhou a
+correr. Neytiri se assusta, mas o animal abaixa a cabeça. Ela acha aquilo inacreditável.
+Cena 102: Norm está na mata em seu corpo humano com máscara de oxigênio e metralhadora nas mãos.
+
+Cena 103: O piloto avisa o Coronel que tem escoltas abatidas ou recuando, ele faz uma expressão de nojo. O Coronel
+comanda que ataquem o alvo logo. A mãe de Neytiri está na Árvore das Almas e avista as naves se aproximando.
+Cena 104: Jake pula na nave maior onde estão os explosivos, ele atinge os atiradores, enquanto isso os soldados estão
+começando a empurrar os explosivos para fora da nave. Ainda em cima Jake joga uma granada na turbina da asa esquerda da
+nave, e monta em seu Toruk, a asa explode, e os explosivos que estavam sendo empurrados para atacar a Árvore das Almas
+voltam para o lado oposto e esmaga o soldado que empurrava. A nave cai e explode.
+Cena 105: Jake pula na nave em que está o Coronel e arma uma granada. Quando o coronel o vê faz uma manobra e Jake
+escorrega, mas a granada fica presa em uma turbina. Jake se segura no suporte para mísseis, uma parte da nave explode
+rompendo a cabine de proteção onde o Coronel e o piloto estão; eles põem as máscara de oxigênio e a nave começa a cair.
+Jake continua pendurado e o coronel vai até ele. Jake pega um dos mísseis e joga nas hélices da nave, outra parte da nave
+explode com rapidez o Coronel entra em um dos robôs, a nave está desabando. Jake cai e se protege com as folhas das
+árvores, como Neytiri havia lhe ensinado. O Coronel pula da nave em seu robô, antes de ela explodir totalmente e cair na
+floresta.
+
+Cena 106: Neytiri cavalga conectada com o animal que a assustou.
+Cena 107: O Coronel acha o acampamento escondido onde Jake está conectado, quando atrás dele aparece Neytiri em seu
+animal, ela pula nele, eles lutam, o Coronel comandando o seu robô e Neytiri o seu animal, o Coronel acerta facadas na
+barriga do animal, que cai em cima de Neytiri e prende seus pés. O Coronel e Neytiri ficam frente a frente, ele ameaça
+Neytiri até que chega Jake, e diz que está tudo acabado, ele responde que nada acaba até ele estar respirando. Jake imaginava
+que ele diria isso e parte para cima dele, eles lutam. Jake quebra o vidro do seu robô deixando sair todo o oxigênio. O
+Coronel tira fora o vidro e pega a máscara de oxigênio e Jake pega sua faca. O Coronel pergunta para Jake como ele se sente
+traindo sua própria raça e Jake mostra os dentes, o coronel continua: “Acha que é um deles?” e vai em direção ao container
+em que está a cabine de conexão de Jake, ele quebra o vidro do container, deixando sair o oxigênio de dentro e procura a
+conexão de Jake, ele pula no coronel e o mesmo o atira longe. Enquanto isso Neytiri está tentando sair debaixo do animal.
+Com a falta de ar Jake se acorda em seu corpo humano e seu Avatar desmaia. Ele toma fôlego e volta para seu Avatar. Com
+seu robô, o Coronel pega Jake pelas tranças e o coloca em sua frente, Neytiri consegue sair debaixo do animal, enquanto o
+coronel está prestes a matar Jake. Neytiri o acerta com sua flecha e vai até o Avatar de Jake e o protege. O Coronel desaba
+com seu robô e morre. Neytiri tenta acordar Jake, mas ele está acordado em seu corpo humano e sem ar. Jake tenta subir em
+sua cadeira de rodas, mas ela escorrega e vai para longe dele, ele tenta sem resultados pegar a máscara de oxigênio, cai da
+cabine e desmaia. Neytiri está lá fora e percebe o que pode estar acontecendo. Ela entra no container e encontra Jake em seu
+
+
+                                                              102
+SITUAÇÕES/CENAS DO FILME AVATAR EM UM CURSO DE FORMAÇÃO DE PROFESSORES
+
+
+
+corpo humano desmaiado, ela o pega no colo e tenta acordá-lo e põe a máscara de oxigênio nele. Jake acorda, Neytiri sorri,
+os dois se olham e se acariciam. Jake diz: “Eu vejo você”. Neytiri chora.
+Cena 108: No posto dos soldados e cientistas, os Na’vi estão em seus cavalos, Jake narra: “Os forasteiros voltaram para seu
+mundo moribundo. Só alguns puderam ficar.” (Norm e Max estão ao lado de Jake que está em seu Avatar com Neytiri
+também ao seu lado) Selfridge se dirige à fila de soldados e cientistas voltando para a nave. Jake continua sua narração: “A
+grande tristeza chegava ao fim. Toruk Macto não era mais necessário”.
+Cena 109: Tokuk Macto voa livremente.
+
+Cena 110: No laboratório Jake está em seu corpo humano gravando seu último videolog e diz: “Aconteça o que acontecer
+hoje à noite, não faz diferença, não voltarei a este lugar.” Ele está feliz e diz que aquele dia é o dia de seu nascimento.
+Cena 111: Um grande culto acontece na Árvore das Almas, todos os Na’vi estão em volta da árvore sentados balançando o
+corpo, os dois corpos de Jake estão no altar, desmaiados. Neytiri está ao seu lado e com sua mãe pede a Eywa que o espírito
+que está no corpo humano de Jake vá para seu corpo de Avatar. Neytiri tira a máscara de oxigênio do corpo humano de Jake.
+Ele não respira mais; ela o beija. O foco incide no rosto do Avatar de Jake e finalmente seus olhos se abrem. Jake morre em
+seu corpo humano para nascer em seu Avatar.
+
+
+
+
+MARIA APARECIDA VIGGIANI BICUDO é doutora, livre-docente e Professora Titular
+(aposentada) em Filosofia da Educação, do Instituto de Geociências e Ciências Exatas, da
+UNESP, campus de Rio Claro. Professora do Programa de Pós-Graduação em Educação
+Matemática desse Instituto. Pesquisadora do CNPq. Orienta mestrados e doutorados em
+Educação Matemática, desde 1984. Possui vasta publicação em Filosofia da Educação
+Matemática. Foi Editora e atualmente é Co-Editora do Bolema – Boletim de Educação
+Matemática, publicado pelo PGEM da UNESP de Rio Claro.
+
+MAURÍCIO ROSA possui graduação em Matemática Licenciatura Plena pela Universidade
+Luterana do Brasil -ULBRA - Canoas (RS)(2001/2), mestrado em Educação Matemática pela
+Universidade Estadual Paulista Júlio de Mesquita Filho- Unesp - Rio Claro (SP)(2004) e
+doutorado em Educação Matemática pela Universidade Estadual Paulista Júlio de Mesquita
+Filho - Unesp - Rio Claro (SP). Foi bolsista do programa de Doutorado com Estágio no
+Exterior - PDEE pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior-
+CAPES, sob o processo BEX - 3899/06-3, na London South Bank University - Londres (UK).
+Tem experiência na área de Matemática, com ênfase em Educação Matemática, atuando
+principalmente nas seguintes frentes: Educação a Distância, Jogos Eletrônicos, Role Playing
+Game (RPG), Ensino de Cálculo. Coordena o Grupo de Pesquisa @+ (AMAIIS- Ambientes-
+Matemáticos de Aprendizagem com a Inclusão da Informática na Sociedade). Coordenou o
+Grupo de Trabalho (GT06) Educação Matemática: Novas Tecnologias e Educação a Distância
+da Sociedade Brasileira de Educação Matemática (SBEM) no período de 2009-2012.
+Atualmente, é Diretor da SBEM- RS - Sociedade Brasileira de Educação Matemática-
+Regional do Rio Grande do Sul.
+
+
+
+
+                                                           103
+
