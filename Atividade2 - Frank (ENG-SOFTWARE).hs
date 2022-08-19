@@ -38,7 +38,7 @@ impar (x, y) = ((x * y) `mod` 2) == 1
 {-7. Em Haskell existe o tipo par cuja assinatura tem a seguinte forma: 𝑝𝑎𝑟 ∷ (𝐼𝑛𝑡,𝐼𝑛𝑡). Escreva
 uma função em Haskell que devolva a soma dos componentes de um par de inteiros.-}
 par :: (Int, Int) -> Int
-par (x, y) = if even x && even y then x+y else 0
+par (x, y) = x + y
 
 
 {-8. Escreva uma função em Haskell que receba números reais (double) e devolva o resultado
@@ -76,36 +76,36 @@ bissexto x = ((x `mod` 4 == 0 && x `mod` 100 /= 0) || x`mod`400 == 0)
 --Chamada das funções:
 main = do
 --Questão 1:
-  print ("soma1: entrada: 4; resultado: 5 " ++ show (soma1 4))
-  print ("soma1: entrada: -2; resultado: -1 " ++ show (soma1 (-2)))
+  print ("soma1: entrada: 4; resultado: " ++ show (soma1 4))
+  print ("soma1: entrada: -2; resultado: " ++ show (soma1 (-2)))
 --Questão 2:
-  print ("sempre: entrada: 10.5; resultado: 0 " ++ show (sempre 10.5))
-  print ("sempre: entrada: -10; resultado: 0 " ++ show (sempre (-10)))
+  print ("sempre: entrada: 10.5; resultado: " ++ show (sempre 10.5))
+  print ("sempre: entrada: -10; resultado: " ++ show (sempre (-10)))
 --Questão 3:
-  print ("treco: entrada: 10 5 2; resultado: 30.0 " ++ show (treco 10 5 2))
+  print ("treco: entrada: 10 5 2; resultado: " ++ show (treco 10 5 2))
 --Questão 4:
   print ("resto: entrada: 10 3; resultado: 1 " ++ show (resto 10 3))
   print ("resto: entrada: -10 3; resultado: 2 " ++ show (resto (-10) 3))
 --Questão 5: 
-  print ("precoMaior: entrada: 1 3 10 9; resultado: 10.0 " ++ show (precoMaior 1 3 10 9))
-  print ("precoMaior: entrada: -10 6 3 9; resultado: 9.0 " ++ show (precoMaior (-10) 6 3 9))
+  print ("precoMaior: entrada: 1 3 10 9; resultado: " ++ show (precoMaior 1 3 10 9))
+  print ("precoMaior: entrada: -10 6 3 9; resultado: " ++ show (precoMaior (-10) 6 3 9))
 --Questão 6:
-  print ("impar: entrada: 1 3; resultado: True " ++ show( impar (1,3)))
-  print ("impar: entrada: 1 2; resultado: False " ++ show( impar (1,2)))
+  print ("impar: entrada: 1 3; resultado: " ++ show( impar (1,3)))
+  print ("impar: entrada: 1 2; resultado: " ++ show( impar (1,2)))
 --Questão 7:
-  print ("par: entrada: 2 4; resultado: 6 " ++ show( par (2,4)))
-  print ("par: entrada: 5 7; resultado: 0 " ++ show( par (5,7)))
+  print ("par: entrada: 2 4; resultado: " ++ show( par (2,4)))
+  print ("par: entrada: 5 7; resultado: " ++ show( par (5,7)))
 --Questão 8:
-  print ("q8: entrada: 10 8 5; resultado: 109.0 " ++ show (q8 10 8(5)))
+  print ("q8: entrada: 10 8 5; resultado: " ++ show (q8 10 8(5)))
 -- Questão 9:
-  print ("diagnostico: entrada: < 17; resultado: Muito abaixo do peso " ++ show( diagnostico (15)))
-  print ("diagnostico: entrada: < 18.5; resultado: Peso normal " ++ show( diagnostico (18)))
-  print ("diagnostico: entrada: < 30; resultado: Sobrepeso " ++ show( diagnostico (20)))
-  print ("diagnostico: entrada: < 35; resultado: Obesidade leve " ++ show( diagnostico (34)))
-  print ("diagnostico: entrada: < 40; resultado: Obesidade severa " ++ show( diagnostico (39)))
-  print ("diagnostico: entrada: > 41; resultado: Obesidade morbida " ++ show( diagnostico (77)))
+  print ("diagnostico: entrada: < 17; resultado: " ++ show( diagnostico (15)))
+  print ("diagnostico: entrada: < 18.5; resultado: " ++ show( diagnostico (18)))
+  print ("diagnostico: entrada: < 30; resultado: " ++ show( diagnostico (20)))
+  print ("diagnostico: entrada: < 35; resultado: " ++ show( diagnostico (34)))
+  print ("diagnostico: entrada: < 40; resultado: " ++ show( diagnostico (39)))
+  print ("diagnostico: entrada: > 41; resultado: " ++ show( diagnostico (77)))
 -- Questão 10:
 --1997 não é bissexto, 1900 não é bissexto e 2000 é bissexto.-}
-  print ("bissexto: entrada: 1900; resultado: False " ++ show (bissexto 1900))
-  print ("bissexto: entrada: 1997; resultado: False " ++ show (bissexto 1997))
-  print ("bissexto: entrada: 2000; resultado: True " ++ show (bissexto 2000))
+  print ("bissexto: entrada: 1900; resultado: " ++ show (bissexto 1900))
+  print ("bissexto: entrada: 1997; resultado: " ++ show (bissexto 1997))
+  print ("bissexto: entrada: 2000; resultado: " ++ show (bissexto 2000))
